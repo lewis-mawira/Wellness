@@ -1,0 +1,1356 @@
+Client,Year,Column_Name,Data_Type,Sample_Value,Unique_Values_Count,Null_Percentage
+AON,2020,respondent_id,float64,12040041022.0,236,0.0
+AON,2020,date_of_birth,object,1983-10-04,221,0.4
+AON,2020,gender,object,Female,2,0.0
+AON,2020,county,object,Laikipia,44,0.0
+AON,2020,dependents_category,object,More than 4,4,0.0
+AON,2020,all_direct_covered,object,No,2,0.0
+AON,2020,willingness_to_pay,object,Neutral,5,47.9
+AON,2020,amount_selected,object,"Kes 10,000 – Kes 20,000",6,74.4
+AON,2020,age,float64,42.0,38,0.4
+AON,2020,age_band,object,36–45 years,5,0.8
+ABSA,2022,respondent_id,float64,114212759355.0,1690,0.0
+ABSA,2022,name,object,EMMA MWILARIA,1626,0.0
+ABSA,2022,gender,object,Female,2,0.0
+ABSA,2022,age_group,object,25-34,5,0.0
+ABSA,2022,branch,object,Gilgil Express Branch,116,0.0
+ABSA,2022,function,object,Bancassurance,211,0.0
+ABSA,2022,awareness_of_wellness_initiative,object,Yes,2,0.0
+ABSA,2022,post_covid_issues,object,Work stressors,71,45.9
+ABSA,2022,financial_issues,object,Financial Planning,28,81.5
+ABSA,2022,wellness_program_needs,object,Parenting and childcare,14,16.1
+ABSA,2022,effective communication skills among colleagues,object,Important,5,3.7
+ABSA,2022,interpersonal relationships with colleagues,object,Important,5,3.8
+ABSA,2022,employee - manager working relationships,object,Important,5,4.0
+ABSA,2022,embracing teamwork among colleagues,object,Important,5,4.0
+ABSA,2022,developing social support structures among team members,object,Important,5,3.8
+ABSA,2022,has_health_wellbeing_issue,object,No,2,0.0
+ABSA,2022,link_to_eap,object,No,2,0.0
+ABSA,2022,themes,object,['Branch/Location/Transfer'],127,0.0
+ABSA,2023,Respondent ID,float64,118463322750.0,1820,0.0
+ABSA,2023,Minet Counsellor Identification,object,Maureen Pande,6,0.0
+ABSA,2023,Is the employee currently working at ABSA?,object,yes,1,0.0
+ABSA,2023,Branch,object,Muthaiga Branch,93,0.0
+ABSA,2023,Function,object,Retail,32,0.0
+ABSA,2023,Consent for care call engagement,object,Yes,4,0.0
+ABSA,2023,Please select your gender,object,Male,2,0.8
+ABSA,2023,Kindly select age group,object,25-34,5,11.0
+ABSA,2023,"Are you aware of the current EWP, including health and wellness initiatives offered by the organization?",object,Yes,2,4.6
+ABSA,2023,Did you participate in the wellness caravan during the wellness month?,object,No,2,5.0
+ABSA,2023,"If No to Question 9, please state your reason for not participating",object,Had no free time because of the position he works ,267,75.1
+ABSA,2023,Please reflect on your 2023 experiences so far and identify the issues/challenges you are have faced/going through? (Select Max. 4),object,None of the above,1,54.6
+ABSA,2023,"Challenges faced/facing - Personal challenges (career growth, education)",object,"Personal challenges (career growth, education)",1,89.3
+ABSA,2023,Challenges faced/facing - Work- and work-related stressors,object,Work- and work-related stressors,1,78.4
+ABSA,2023,Challenges faced/facing - Work-life imbalance,object,Work-life imbalance,1,91.0
+ABSA,2023,Challenges faced/facing - Marital issues,object,Marital issues,1,98.3
+ABSA,2023,Challenges faced/facing - Financial challenges,object,Financial challenges,1,87.4
+ABSA,2023,Challenges faced/facing - Relationship difficulties,object,Relationship difficulties,1,99.0
+ABSA,2023,Challenges faced/facing - Parenting challenges,object,Parenting challenges,1,96.5
+ABSA,2023,Challenges faced/facing - Anxiety and depression,object,Anxiety and depression,1,95.9
+ABSA,2023,Challenges faced/facing - Trauma related,object,Trauma related,1,98.9
+ABSA,2023,Challenges faced/facing - Loss and Grief,object,Loss and Grief,1,97.6
+ABSA,2023,Challenges faced/facing - Alcohol (Substance and chemical dependency),object,Alcohol (Substance and chemical dependency),1,98.5
+ABSA,2023,"Challenges faced/facing - Chronic Diseases (nuclear family, parents, other extended family members)",object,"Chronic Diseases (nuclear family, parents, other e",1,97.7
+ABSA,2023,Challenges faced/facing - Other (please specify),object,health challenges,43,94.4
+ABSA,2023,"During the year 2023, have you accessed the Employee Assistance Program counselling services?",object,No,2,8.2
+ABSA,2023,"If No to Question 12, please state your reason for not participating",object,It has been a good year,301,51.9
+ABSA,2023,"Based on the current economic developments, what financial empowerment programs would you like to be implemented in the EWP program?",object,Personal financial management,1,61.2
+ABSA,2023,Financial empowerment programs requested - Debt management,object,Debt management,1,84.2
+ABSA,2023,Financial empowerment programs requested - Retirement planning,object,Retirement planning,1,81.8
+ABSA,2023,Financial empowerment programs requested - Investment,object,Investment,1,62.9
+ABSA,2023,Financial empowerment programs requested - Financial planning,object,Financial planning,1,61.8
+ABSA,2023,Financial empowerment programs requested - Other (please specify),object,Increase facility with a low interest rate ,38,83.6
+ABSA,2023,Which areas of the mental health and wellbeing would you propose to be included in the wellness program to address your needs?,object,Anxiety/depression,1,88.2
+ABSA,2023,Mental health/wellbeing areas proposed - Health and well-being including lifestyle diseases,object,Health and well-being including lifestyle diseases,1,77.1
+ABSA,2023,Mental health/wellbeing areas proposed - Dealing with addiction and related stigma,object,Dealing with addiction and related stigma,1,97.5
+ABSA,2023,Mental health/wellbeing areas proposed - Men Cave/Women Forum,object,Men Cave/Women Forum,1,87.4
+ABSA,2023,Mental health/wellbeing areas proposed - Building healthy relationships/marriages,object,Building healthy relationships/marriages,1,94.8
+ABSA,2023,Mental health/wellbeing areas proposed - Parenting and childcare,object,Parenting and childcare,1,90.8
+ABSA,2023,Mental health/wellbeing areas proposed - Increased awareness sessions on mental health issues,object,Increased awareness sessions on mental health issu,1,59.1
+ABSA,2023,Mental health/wellbeing areas proposed - Money matters/Financial coaching and literacy sessions,object,Money matters/Financial coaching and literacy sess,1,65.9
+ABSA,2023,"Mental health/wellbeing areas proposed - Building healthy relationships at work (colleagues, team leaders, managers)",object,Building healthy relationships at work (colleagues,1,87.4
+ABSA,2023,Mental health/wellbeing areas proposed - Develop a Teens program on contemporary topics,object,Develop a Teens program on contemporary topics,1,95.7
+ABSA,2023,Mental health/wellbeing areas proposed - Other (please specify),object,Stress Management,83,82.2
+ABSA,2023,Please rank the following mental health initiatives in order of which would most promote a healthy work environment and maximize productivity.,float64,2.0,7,7.5
+ABSA,2023,Ranking of mental health initiatives to promote a healthy work environment and maximize productivity - Setting up an insurance medical fund/kitty for parents funded by employees,float64,3.0,7,7.5
+ABSA,2023,Ranking of mental health initiatives to promote a healthy work environment and maximize productivity - Interested to be a wellness champion,float64,4.0,7,7.5
+ABSA,2023,Ranking of mental health initiatives to promote a healthy work environment and maximize productivity - Initiate employee-manager communication forums,float64,1.0,7,7.5
+ABSA,2023,"Ranking of mental health initiatives to promote a healthy work environment and maximize productivity - Embrace teamwork amongst colleagues through employee engagement forums, sporting activities, team building",float64,5.0,7,7.5
+ABSA,2023,"Ranking of mental health initiatives to promote a healthy work environment and maximize productivity - Initiate family visit days to the office e.g., during customer service week",float64,6.0,7,7.5
+ABSA,2023,Ranking of mental health initiatives to promote a healthy work environment and maximize productivity - Improve social support structures among employees/team members,float64,7.0,7,7.5
+ABSA,2023,Are there any other programs you suggest?,object,Desires to be confirmed as a full time employee.,402,46.7
+CIPLA,2023,respondent_id,int64,-2147483648,1,0.0
+CIPLA,2023,gender,object,Female,2,0.0
+CIPLA,2023,age_group,object,18-30,5,0.0
+CIPLA,2023,department,object,Sales Force Excellence,5,0.0
+CIPLA,2023,mental_wellbeing_rating_overall,object,Positive,6,0.0
+CIPLA,2023,mental_wellbeing_rating_current,object,I am okay and coping well,3,0.0
+CIPLA,2023,"if you need support in q6 above, please state what type of support you would need?",object,No Response,28,0.0
+CIPLA,2023,please reflect on the mental wellness related issues listed below and tick the areas you would like us to address on our regular sessions?  (select as many as applicable),object,Work/job related stressors,2,0.0
+CIPLA,2023,mental_issue_emotional_intelligence,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_financial_constraints,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_trauma,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_substance_dependence,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_relationship_difficulties,object,Relationship Difficulties,2,0.0
+CIPLA,2023,mental_issue_unresolved_childhood,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_anxiety_depression,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_parenting,object,Not Selected,2,0.0
+CIPLA,2023,mental_issue_other,object,Not Selected,4,0.0
+CIPLA,2023,currently_emotionally_distressed,object,A little,6,0.0
+CIPLA,2023,"during the past month, have you had any problems with your work or daily life due to any emotional problems, such as feeling depressed, sad, or anxious?",object,No,3,0.0
+CIPLA,2023,"during the past month, how often has your mental health affected your ability to get work done?",object,None at all,6,0.0
+CIPLA,2023,"during the past month, how often has your mental health affected your relationships?",object,A little,6,0.0
+CIPLA,2023,ever_diagnosed_mental_disorder,object,No,3,0.0
+CIPLA,2023,seen_therapist_recently,object,No,3,0.0
+CIPLA,2023,family_history_mental_disorder,object,No,3,0.0
+CIPLA,2023,do you feel content with your relationships and family?,object,Satisfied,4,0.0
+CIPLA,2023,when was the last time you were really happy?,object,More than a month ago,5,0.0
+CIPLA,2023,when was the last time you had a positive outlook on life?,object,More than a week ago but less than a month ago,5,0.0
+CIPLA,2023,when was the last time you felt good about yourself?,object,More than a week ago but less than a month ago,5,0.0
+CIPLA,2023,how often do you feel positive about your life?,object,Often,5,0.0
+CIPLA,2023,sleep_hours_per_day,object,7-9 hours,4,0.0
+CIPLA,2023,sleep_quality,object,Good,6,0.0
+CIPLA,2023,diet_habit_changes,object,"Yes, I eat too much",5,0.0
+CIPLA,2023,smoking_frequency,object,Never,3,0.0
+CIPLA,2023,alcohol_consumption_frequency,object,Never,4,0.0
+CIPLA,2023,how do you usually cope with the general stresses of life and the mental health challenges that come your way? (select as many as applicable starting with the most relevant),object,Not Selected,2,0.0
+CIPLA,2023,coping_keep_to_self,object,Not Selected,2,0.0
+CIPLA,2023,coping_seek_online_options,object,I engage relatives and friends,2,0.0
+CIPLA,2023,coping_physical_activity,object,Not Selected,2,0.0
+CIPLA,2023,coping_pub_drinking,object,Not Selected,2,0.0
+CIPLA,2023,coping_professional_counsellor,object,Not Selected,2,0.0
+CIPLA,2023,coping_religious_leader,object,Not Selected,2,0.0
+CIPLA,2023,coping_engage_family_friends,object,Not Selected,2,0.0
+CIPLA,2023,coping_other,object,Not Selected,9,0.0
+CIPLA,2023,"what about the amount of social support you receive from your family, friends, etc? when you have the need to talk to someone or go on outings with friends and/or relatives, do you feel there is someone who fulfils these needs?",object,Above average degree of social support. (Given or ,6,0.0
+CIPLA,2023,how would you prefer to receive information and advice about mental health?,object,No Response,2,0.0
+CIPLA,2023,info_group_session,object,Not Selected,2,0.0
+CIPLA,2023,info_online,object,Group session,2,0.0
+CIPLA,2023,info_one_on_one,object,Not Selected,2,0.0
+CIPLA,2023,info_pamphlets_nuggets,object,Not Selected,3,0.0
+CIPLA,2023,eap_awareness,object,Yes,3,0.0
+CIPLA,2023,eap_service_used,object,No,3,0.0
+CIPLA,2023,unnamed: 60,object,Because it's not available at Madagascar ,33,0.0
+CIPLA,2023,would you like us to link you or your dependents to our professional counsellors for support?,object,No,3,0.0
+CIPLA,2023,unnamed: 62,object,No Response,26,0.0
+CIPLA,2023,mental_issues_selected,object,"Work/job related stressors, Relationship Difficult",48,6.3
+CIPLA,2023,coping_mechanisms_selected,object,I engage relatives and friends,35,5.3
+CIPLA,2023,info_preference_selected,object,Group session,12,6.3
+Africa Biosystems,2024,Respondent ID,float64,114614800775.0,23,0.0
+Africa Biosystems,2024,Collector ID,float64,431024436.0,2,0.0
+Africa Biosystems,2024,Start Date,datetime64[ns],2024-06-03 11:41:05,23,0.0
+Africa Biosystems,2024,End Date,datetime64[ns],2024-06-03 11:50:26,23,0.0
+Africa Biosystems,2024,IP Address,object,41.57.104.110,12,0.0
+Africa Biosystems,2024,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Africa Biosystems,2024,Please select your gender,object,Male,2,0.0
+Africa Biosystems,2024,Kindly select your age group,object,31-35 years,7,0.0
+Africa Biosystems,2024,Please select your respective functional unit from the dropdown below.,object,Commercial,8,0.0
+Africa Biosystems,2024,Ranking - CYCLING,float64,7.0,9,21.7
+Africa Biosystems,2024,Ranking - RUNNING,float64,10.0,10,17.4
+Africa Biosystems,2024,Ranking - FOOTBALL,float64,6.0,8,21.7
+Africa Biosystems,2024,Ranking - MEN'S CAVE,float64,7.0,6,39.1
+Africa Biosystems,2024,Ranking - LADIES CLUB,float64,1.0,6,26.1
+Africa Biosystems,2024,Ranking - BOOK CLUB,float64,10.0,6,21.7
+Africa Biosystems,2024,Ranking - DIET/NUTRITION PROGRAMS,float64,3.0,7,21.7
+Africa Biosystems,2024,Ranking - STAIRCASE/STEP CHALLENGE,float64,1.0,7,17.4
+Africa Biosystems,2024,Ranking - MEDITATION/YOGA/MUSIC,float64,6.0,9,17.4
+Africa Biosystems,2024,Ranking - QUIZ DAYS,float64,10.0,7,21.7
+Africa Biosystems,2024,Ranking - Other (please specify),float64,ALL NULL,0,100.0
+Africa Biosystems,2024,Champion Interest - CYCLING,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - RUNNING,object,RUNNING,2,0.0
+Africa Biosystems,2024,Champion Interest - FOOTBALL,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - MEN'S CAVE,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - LADIES CLUB,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - BOOK CLUB,object,BOOK CLUB,2,0.0
+Africa Biosystems,2024,Champion Interest - DIET/NUTRITION PROGRAMS,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - STAIRCASE/STEP CHALLENGE,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - MEDITATION/YOGA/MUSIC,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - QUIZ DAYS,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - Personal issues,object,No Response,2,0.0
+Africa Biosystems,2024,Champion Interest - Work/job-related stressors,object,Work/job-related stressors,2,0.0
+Africa Biosystems,2024,Champion Interest - Building Healthy families,object,Building Healthy families,2,0.0
+Africa Biosystems,2024,Champion Interest - Emotional Wellbeing,object,Emotional Wellbeing,2,0.0
+Africa Biosystems,2024,Mental Wellness - Financial Wellbeing,object,Financial Wellbeing,2,0.0
+Africa Biosystems,2024,"Mental Wellness - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Substance and Drug Dependence,object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Healthy Relationships,object,Healthy Relationships,2,0.0
+Africa Biosystems,2024,Mental Wellness - Unresolved Childhood Difficulties,object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Anxiety and Depression,object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Work-life balance,object,Work-life balance,2,0.0
+Africa Biosystems,2024,Mental Wellness - Lifestyle diseases management,object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Effective Parenting skills (Managing children and teenagers),object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Other (please specify),object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Wellness coordinators/ Ambassador for Change,object,Wellness coordinators/ Ambassador for Change,2,0.0
+Africa Biosystems,2024,Mental Wellness - Mental Health Peer counsellor,object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Baby minder trainings (training for your nannies),object,No Response,2,0.0
+Africa Biosystems,2024,Mental Wellness - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,2,0.0
+Africa Biosystems,2024,Training Interest - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,2,0.0
+Africa Biosystems,2024,Training Interest - Other (please specify),object,No Response,2,0.0
+Africa Biosystems,2024,"Training Interest - Thrive club (Those living positively with a life's challenging phenomena; Disease, Disability etc.)",object,No Response,1,0.0
+Africa Biosystems,2024,Training Interest - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,No Response,2,0.0
+Africa Biosystems,2024,"Training Interest - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,2,0.0
+Africa Biosystems,2024,"Training Interest - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,2,0.0
+Africa Biosystems,2024,Club Interest - Other (please specify),object,No Response,2,0.0
+CARGILL,2024,Respondent ID,float64,10050327177.0,11,0.0
+CARGILL,2024,The wellness camp met my expectation?,object,Agree,3,0.0
+CARGILL,2024,The topics and checks covered were relevant,object,Strongly agree,2,0.0
+CARGILL,2024,The trainer was knowledgeable and well prepared,object,Strongly agree,3,0.0
+CARGILL,2024,The providers conducted themselves professionally,object,Strongly agree,2,0.0
+CARGILL,2024,There was sufficient opportunity for interactive participation,object,Agree,2,0.0
+CARGILL,2024,"All things considered, I was extremely satisfied with the Wellness Camp?",object,Satisfied,2,0.0
+CARGILL,2024,What did you like best about the Staff Wellness camp?,object,the feedback was immediate,9,18.2
+CARGILL,2024,What did you like least about the Staff Wellness Camp?,object,privacy,7,36.4
+CARGILL,2024,Any suggestions for improvement? List below.,object,"More test,",10,9.1
+Kenya Airways,2022,Respondent ID,float64,114087935313.0,637,0.0
+Kenya Airways,2022,Please select your gender,object,Male,2,0.0
+Kenya Airways,2022,Kindly select your age bracket,object,25-39 years,4,0.0
+Kenya Airways,2022,Please select your department from the list below,object,Ground Operations,12,0.0
+Kenya Airways,2022,How would you rate the state of your mental well-being?,object,Excellent,6,0.0
+Kenya Airways,2022,How would you rate the current state of your mental well-being?,object,I’m just there,5,0.0
+Kenya Airways,2022,"If you need support in Q5 above, please state what support you would need?",object,No Support Requested,146,0.0
+Kenya Airways,2022,MW_Issue_Emotional_Intelligence,object,No Response,2,0.0
+Kenya Airways,2022,MW_Issue_Financial_Constraints,object,Financial constraints,2,0.0
+Kenya Airways,2022,MW_Issue_Trauma,object,No Response,2,0.0
+Kenya Airways,2022,MW_Issue_Substance_Drug_Dependence,object,No Response,2,0.0
+Kenya Airways,2022,MW_Issue_Relationship_Difficulties,object,No Response,2,0.0
+Kenya Airways,2022,MW_Issue_Unresolved_Childhood_Difficulties,object,No Response,2,0.0
+Kenya Airways,2022,MW_Issue_Anxiety_Depression,object,No Response,2,0.0
+Kenya Airways,2022,MW_Issue_Other,object,No Response,2,0.0
+Kenya Airways,2022,Are you going through a tough emotional situation right now?,object,No,4,0.0
+Kenya Airways,2022,"During the past 4 weeks, have you had any problems with your work or daily life due to any emotional problems, such as feeling depressed, sad, or anxious?",object,No,4,0.0
+Kenya Airways,2022,"During the past 4 weeks, how often has your mental health affected your ability to get work done?",object,Not so often,5,0.0
+Kenya Airways,2022,"During the past two weeks, how often has your mental health affected your relationships?",object,Not so often,5,0.0
+Kenya Airways,2022,Have you ever been diagnosed with a mental disorder before?,object,No,4,0.0
+Kenya Airways,2022,Have you seen a therapist in the recent past?,object,No,3,0.0
+Kenya Airways,2022,Is there a history of mental disorder in your family?,object,No,4,0.0
+Kenya Airways,2022,Do you feel content with your relationships and family?,object,Yes,4,0.0
+Kenya Airways,2022,When was the last time you were really happy?,object,Few days ago,6,0.0
+Kenya Airways,2022,When was the last time you felt good about yourself?,object,Few weeks ago,6,0.0
+Kenya Airways,2022,How often do you feel positive about your life?,object,Always,6,0.0
+Kenya Airways,2022,When was the last time you had a positive outlook on life?,object,Few days ago,6,0.0
+Kenya Airways,2022,How many hours do you sleep per day?,object,7 - 9,5,0.0
+Kenya Airways,2022,How is your quality of sleep?,object,Good,7,0.0
+Kenya Airways,2022,How often do you smoke?,object,Never,5,0.0
+Kenya Airways,2022,How often do you drink?,object,Never,5,0.0
+Kenya Airways,2022,How do you usually cope with the general stresses of life and the mental health challenges that come your way?,object,I engage relatives and friends,7,0.0
+Kenya Airways,2022,Coping_Mechanisms_Other,object,no response,58,0.0
+Kenya Airways,2022,"What about the amount of social support you receive from your family, friends, etc? When you have the need to talk to someone or go on outings with friends and/or relatives, do you feel there is someone who fulfills these needs?",object,High degree of social support (Much support is eit,6,0.0
+Kenya Airways,2022,Have you ever attended a Mental Health Awareness Session?,object,No,3,0.0
+Kenya Airways,2022,How would you prefer to receive information and advice about mental health?,object,Online,5,0.0
+Kenya Airways,2022,MH_Info_Preference_Other,object,no response,20,0.2
+Kenya Airways,2022,Are you aware of the Employee Assistance Program services offered by Kenya Airways to all its staff and dependents through Minet?,object,Yes,3,0.0
+Kenya Airways,2022,"If yes to Question 28, have you ever accessed the service?",object,No,3,0.0
+Kenya Airways,2022,"If no, please state the reason.",object,I haven't had any mental problems. ,366,0.0
+Kenya Airways,2022,Would you like us to link you or your dependents to our professional counselors for support?,object,Yes,3,0.0
+BE Energy,2025,Respondent ID,float64,114921735652.0,25,0.0
+BE Energy,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+BE Energy,2025,Please select your gender ,object,Male,2,0.0
+BE Energy,2025,Kindly select your age group,object,36-40 years,7,0.0
+BE Energy,2025,Please select your respective functional unit from the dropdown below,object,HR and Admin,6,0.0
+BE Energy,2025,"Rank the below proposed wellness activities in order of your preference and participation in the year 2025 (1 being the lowest, while 10 being the highest score)",float64,3.0,8,32.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - ZUMBA,float64,1.0,8,40.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - SWIMMING,float64,7.0,9,44.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - HIKING,float64,9.0,9,40.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - CYCLING,float64,4.0,8,40.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - RUNNING,float64,4.0,9,40.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - FOOTBALL,float64,3.0,8,32.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - MEN’ S CAVE,float64,5.0,5,56.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - LADIES CLUB,float64,1.0,4,60.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - BOOK CLUB,float64,1.0,7,44.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - DIET/NUTRITION PROGRAMS,float64,4.0,5,40.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - STAIRCASE/STEP CHALLENGE,float64,5.0,7,32.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - QUIZ DAYS,float64,3.0,8,48.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - MEDITATION/YOGA/MUSIC,float64,9.0,7,36.0
+BE Energy,2025,Proposed wellness activities preference ranking - Proposed wellness activities ranking - Other (please specify),float64,ALL NULL,0,100.0
+BE Energy,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,64.0
+BE Energy,2025,Champion/Committee interested joining - ZUMBA,object,ZUMBA,1,84.0
+BE Energy,2025,Champion/Committee interested joining - SWIMMING,object,SWIMMING,1,80.0
+BE Energy,2025,Champion/Committee interested joining - HIKING,object,HIKING,1,88.0
+BE Energy,2025,Champion/Committee interested joining - CYCLING,object,CYCLING,1,92.0
+BE Energy,2025,Champion/Committee interested joining - RUNNING,object,RUNNING,1,72.0
+BE Energy,2025,Champion/Committee interested joining - FOOTBALL,object,FOOTBALL,1,84.0
+BE Energy,2025,Champion/Committee interested joining - MEN'S CAVE,object,MEN'S CAVE,1,88.0
+BE Energy,2025,Champion/Committee interested joining - LADIES CLUB,object,LADIES CLUB,1,88.0
+BE Energy,2025,Champion/Committee interested joining - BOOK CLUB,object,BOOK CLUB,1,80.0
+BE Energy,2025,Champion/Committee interested joining - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,88.0
+BE Energy,2025,Champion/Committee interested joining - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,88.0
+BE Energy,2025,Champion/Committee interested joining - QUIZ DAYS,object,QUIZ DAYS,1,96.0
+BE Energy,2025,Champion/Committee interested joining - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,76.0
+BE Energy,2025,"Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (where applicable, tick more than one option).",object,Personal issues,1,80.0
+BE Energy,2025,Mental wellness areas requested to address - Work/job-related stressors,object,Work/job-related stressors,1,60.0
+BE Energy,2025,Mental wellness areas requested to address - Building Healthy families,object,Building Healthy families,1,76.0
+BE Energy,2025,Mental wellness areas requested to address - Emotional Wellbeing,object,Emotional Wellbeing,1,40.0
+BE Energy,2025,Mental wellness areas requested to address - Financial Wellbeing,object,Financial Wellbeing,1,32.0
+BE Energy,2025,"Mental wellness areas requested to address - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,88.0
+BE Energy,2025,Mental wellness areas requested to address - Substance and Drug Dependence,object,Substance and Drug Dependence,1,84.0
+BE Energy,2025,Mental wellness areas requested to address - Healthy Relationships,object,Healthy Relationships,1,56.0
+BE Energy,2025,Mental wellness areas requested to address - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,80.0
+BE Energy,2025,Mental wellness areas requested to address - Anxiety and Depression,object,Anxiety and Depression,1,84.0
+BE Energy,2025,Mental wellness areas requested to address - Work-life balance,object,Work-life balance,1,44.0
+BE Energy,2025,Mental wellness areas requested to address - Lifestyle diseases management,object,Lifestyle diseases management,1,84.0
+BE Energy,2025,Mental wellness areas requested to address - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,68.0
+BE Energy,2025,Mental wellness areas requested to address - Other (please specify),object,Perimenopause/Menopause,1,96.0
+BE Energy,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,44.0
+BE Energy,2025,Training programs would like to attend - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,64.0
+BE Energy,2025,Training programs would like to attend - Baby minder trainings (training for your nannies),float64,ALL NULL,0,100.0
+BE Energy,2025,Training programs would like to attend - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,80.0
+BE Energy,2025,Training programs would like to attend - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,64.0
+BE Energy,2025,Training programs would like to attend - Other (please specify),object,Perimenopause/Menopause,1,96.0
+BE Energy,2025,Which of the health and wellbeing clubs below would you be interested to join?,float64,ALL NULL,0,100.0
+BE Energy,2025,Health & wellbeing club interested joining - Soul food (Overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (Overcomers of a challenging or difficul,1,80.0
+BE Energy,2025,"Health & wellbeing club interested joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,60.0
+BE Energy,2025,"Health & wellbeing club interested joining - Health club (Those interested in healthy living aspects; healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,36.0
+BE Energy,2025,Health & wellbeing club interested joining - Other (please specify),object,Perimenopause/Menopause,1,96.0
+MPESA Foundation,2023,Respondent ID,object,114510037503,67,0.0
+MPESA Foundation,2023,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+MPESA Foundation,2023,Please select your gender,object,Female,2,0.0
+MPESA Foundation,2023,Kindly select your age group,object,31-35 years,7,0.0
+MPESA Foundation,2023,Please select your respective functional unit from the dropdown below.,object,Finance and Procurement,12,0.0
+MPESA Foundation,2023,Other (please specify),object,Clinic ,1,98.5
+MPESA Foundation,2023,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,1.0,10,23.9
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- ZUMBA,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- SWIMMING,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- HIKING,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- CYCLING,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- RUNNING,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- FOOTBALL,float64,1.0,10,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- MEN’ S CAVE,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- LADIES CLUB,float64,1.0,9,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- BOOK CLUB,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- DIET/NUTRITION PROGRAMS,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- STAIRCASE/STEP CHALLENGE,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- MEDITATION/YOGA/MUSIC,float64,1.0,11,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- QUIZ DAYS,float64,1.0,10,0.0
+MPESA Foundation,2023,Ranking wellness activities preference and participation(1 least 10 highest)- Other (please specify),float64,0.0,1,0.0
+MPESA Foundation,2023,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,79.1
+MPESA Foundation,2023,Champion/Committee inerested joining - ZUMBA,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - SWIMMING,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - HIKING,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - CYCLING,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - RUNNING,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - FOOTBALL,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - MEN'S CAVE,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - LADIES CLUB,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - BOOK CLUB,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - DIET/NUTRITION PROGRAMS,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - STAIRCASE/STEP CHALLENGE,int64,1,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - MEDITATION/YOGA/MUSIC,int64,0,2,0.0
+MPESA Foundation,2023,Champion/Committee inerested joining - QUIZ DAYS,int64,0,2,0.0
+MPESA Foundation,2023,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,76.1
+MPESA Foundation,2023,Mental wellness issues requested to adress - Work/job-related stressors,int64,1,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Building Healthy families,int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Emotional Wellbeing,int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Financial Wellbeing,int64,1,2,0.0
+MPESA Foundation,2023,"Mental wellness issues requested to adress - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Substance and Drug Dependence,int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Healthy Relationships,int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Unresolved Childhood Difficulties,int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Anxiety and Depression,int64,0,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Work-life balance,int64,1,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Lifestyle diseases management,int64,1,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Effective Parenting skills (Managing children and teenagers),int64,1,2,0.0
+MPESA Foundation,2023,Mental wellness issues requested to adress - Other (please specify),object,All of the above,1,98.5
+MPESA Foundation,2023,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,65.7
+MPESA Foundation,2023,Training programs interested joining - Mental Health Peer counsellor,int64,1,2,0.0
+MPESA Foundation,2023,Training programs interested joining - Baby minder trainings (training for your nannies),int64,1,2,0.0
+MPESA Foundation,2023,Training programs interested joining - Youth/Peer mentorship program (Training for your adolescent son/daughter),int64,1,2,0.0
+MPESA Foundation,2023,Training programs interested joining - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),int64,1,2,0.0
+MPESA Foundation,2023,Training programs interested joining - Other (please specify),object,I love this,1,98.5
+MPESA Foundation,2023,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,89.6
+MPESA Foundation,2023,Health and wellbeing clubs interested joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),int64,0,2,0.0
+MPESA Foundation,2023,"Health and wellbeing clubs interested joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",int64,1,2,0.0
+MPESA Foundation,2023,"Health and wellbeing clubs interested joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",int64,1,2,0.0
+MPESA Foundation,2023,Health and wellbeing clubs interested joining - Other (please specify),object,None ,1,98.5
+Habitat for Humanity,2023,Respondent ID,object,114515533666,14,0.0
+Habitat for Humanity,2023,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Habitat for Humanity,2023,Please select your gender,object,Female,2,0.0
+Habitat for Humanity,2023,Kindly select your age group,object,31-35 years,7,0.0
+Habitat for Humanity,2023,Please select your respective functional unit from the dropdown below.,object,"Program Operations-MEAL,WASH",5,0.0
+Habitat for Humanity,2023,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,10.0,6,14.3
+Habitat for Humanity,2023,Wellness activities preference and participation - ZUMBA,float64,10.0,5,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - SWIMMING,float64,0.0,7,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - HIKING,float64,0.0,7,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - CYCLING,float64,7.0,8,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - RUNNING,float64,0.0,8,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - FOOTBALL,float64,0.0,6,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - MEN’ S CAVE,float64,0.0,5,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - LADIES CLUB,float64,9.0,6,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - BOOK CLUB,float64,0.0,8,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - DIET/NUTRITION PROGRAMS,float64,10.0,8,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - STAIRCASE/STEP CHALLENGE,float64,0.0,7,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - MEDITATION/YOGA/MUSIC,float64,10.0,7,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - QUIZ DAYS,float64,0.0,8,0.0
+Habitat for Humanity,2023,Wellness activities preference and participation - Other (please specify),object,Gardening ,3,78.6
+Habitat for Humanity,2023,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,71.4
+Habitat for Humanity,2023,Wellness champion/committee interested joining - ZUMBA,int64,1,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - SWIMMING,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - HIKING,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - CYCLING,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - RUNNING,int64,0,1,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - FOOTBALL,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - MEN'S CAVE,int64,0,1,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - LADIES CLUB,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - BOOK CLUB,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - DIET/NUTRITION PROGRAMS,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - STAIRCASE/STEP CHALLENGE,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - MEDITATION/YOGA/MUSIC,int64,0,2,0.0
+Habitat for Humanity,2023,Wellness champion/committee interested joining - QUIZ DAYS,int64,0,2,0.0
+Habitat for Humanity,2023,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,85.7
+Habitat for Humanity,2023,Mental wellness areas requested to address - Work/job-related stressors,int64,1,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Building Healthy families,int64,1,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Emotional Wellbeing,int64,1,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Financial Wellbeing,int64,0,2,0.0
+Habitat for Humanity,2023,"Mental wellness areas requested to address - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",int64,0,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Substance and Drug Dependence,int64,0,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Healthy Relationships,int64,0,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Unresolved Childhood Difficulties,int64,0,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Anxiety and Depression,int64,0,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Work-life balance,int64,1,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Lifestyle diseases management,int64,1,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Effective Parenting skills (Managing children and teenagers),int64,1,2,0.0
+Habitat for Humanity,2023,Mental wellness areas requested to address - Other (please specify),object,Navigating menopause ,1,92.9
+Habitat for Humanity,2023,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,50.0
+Habitat for Humanity,2023,Training programs interested attending - Mental Health Peer counsellor,int64,1,2,0.0
+Habitat for Humanity,2023,Training programs interested attending - Baby minder trainings (training for your nannies),int64,1,2,0.0
+Habitat for Humanity,2023,Training programs interested attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),int64,1,2,0.0
+Habitat for Humanity,2023,Training programs interested attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),int64,1,2,0.0
+Habitat for Humanity,2023,Training programs interested attending - Other (please specify),float64,ALL NULL,0,100.0
+Habitat for Humanity,2023,Which of the health and wellbeing clubs below would you be interested to join?,float64,ALL NULL,0,100.0
+Habitat for Humanity,2023,Health & wellbeing clubs interest 2023 - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),int64,0,2,0.0
+Habitat for Humanity,2023,"Health & wellbeing clubs interest 2023 - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",int64,1,2,0.0
+Habitat for Humanity,2023,"Health & wellbeing clubs interest 2023 - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",int64,1,2,0.0
+Habitat for Humanity,2023,Health & wellbeing clubs interest 2023 - Other (please specify),float64,ALL NULL,0,100.0
+KWAL,2023,Respondent ID,object,114452894591,71,0.0
+KWAL,2023,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+KWAL,2023,Please select your gender,object,Male,2,0.0
+KWAL,2023,Kindly select your age group,object,31-35 years,7,0.0
+KWAL,2023,Please tick your respective functional unit below,object,Plant operations,15,0.0
+KWAL,2023,Other (please specify),object,machine operator,2,97.2
+KWAL,2023,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,1.0,10,18.3
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - ZUMBA,float64,1.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - SWIMMING,float64,7.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - HIKING,float64,7.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - CYCLING,float64,8.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - RUNNING,float64,7.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - FOOTBALL,float64,2.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - MEN’ S CAVE,float64,9.0,10,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - LADIES CLUB,float64,1.0,10,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - BOOK CLUB,float64,5.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,1.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,1.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - MEDITATION/YOGA/MUSIC,float64,7.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - QUIZ DAYS,float64,6.0,11,0.0
+KWAL,2023,Ranking wellness activities preference and participation(1 least 10 highest) - Other (please specify),float64,0.0,1,0.0
+KWAL,2023,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,73.2
+KWAL,2023,Wellness activities champion/committee interested joining - ZUMBA,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - SWIMMING,int64,1,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - HIKING,int64,1,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - CYCLING,int64,1,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - RUNNING,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - FOOTBALL,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - MEN'S CAVE,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - LADIES CLUB,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - BOOK CLUB,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - DIET/NUTRITION PROGRAMS,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - STAIRCASE/STEP CHALLENGE,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - MEDITATION/YOGA/MUSIC,int64,0,2,0.0
+KWAL,2023,Wellness activities champion/committee interested joining - QUIZ DAYS,int64,0,2,0.0
+KWAL,2023,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,80.3
+KWAL,2023,Mental wellness issues requested to adress - Work/job-related stressors,int64,1,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Building Healthy families,int64,1,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Emotional Wellbeing,int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Financial Wellbeing,int64,0,2,0.0
+KWAL,2023,"Mental wellness issues requested to adress - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Substance and Drug Dependence,int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Healthy Relationships,int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Unresolved Childhood Difficulties,int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Anxiety and Depression,int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Work-life balance,int64,1,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Lifestyle diseases management,int64,0,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Effective Parenting skills (Managing children and teenagers),int64,1,2,0.0
+KWAL,2023,Mental wellness issues requested to adress - Other (please specify),object,Relaxation modules,2,97.2
+KWAL,2023,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,56.3
+KWAL,2023,Training programs interested attending - Mental Health Peer counsellor,int64,0,2,0.0
+KWAL,2023,Training programs interested attending - Baby minder trainings (training for your nannies),int64,0,2,0.0
+KWAL,2023,Training programs interested attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),int64,0,2,0.0
+KWAL,2023,Training programs interested attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),int64,1,2,0.0
+KWAL,2023,Training programs interested attending - Other (please specify),object,financial investments,3,95.8
+KWAL,2023,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,88.7
+KWAL,2023,Health & wellbeing clubs interested joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),int64,0,2,0.0
+KWAL,2023,"Health & wellbeing clubs interested joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",int64,1,2,0.0
+KWAL,2023,"Health & wellbeing clubs interested joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",int64,0,2,0.0
+KWAL,2023,Health & wellbeing clubs interested joining - Other (please specify),object,wellness programs,2,97.2
+Prudential Africa,2022,Respondent ID,object,118025606292,323,0.0
+Prudential Africa,2022,Please select your gender,object,Male,2,0.0
+Prudential Africa,2022,Kindly select your age group,object,35-44,5,0.0
+Prudential Africa,2022,Please select your local business unit,object,PAUL,5,0.0
+Prudential Africa,2022,"Overall, how do you rate the state of your mental well-being?",object,Fair,5,0.6
+Prudential Africa,2022,Please reflect on the mental wellness related issues listed below and select all the areas you would like us to address in our regular sessions.,object,Work/job related stressors,1,36.8
+Prudential Africa,2022,Mental wellness issues requested to address - Emotional intelligence,int64,0,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Financial constraints,int64,1,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Trauma,int64,0,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Work Life Balance,int64,1,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Substance and Drug Dependence,int64,0,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Bereavement and Loss,int64,0,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Relationship Difficulties,int64,0,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Unresolved Childhood Difficulties,int64,0,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Anxiety and Depression,int64,1,2,0.0
+Prudential Africa,2022,Mental wellness issues requested to address - Other (please specify),object,none,11,96.3
+Prudential Africa,2022,What challenges are you currently facing?,object,Work life balance,1,42.4
+Prudential Africa,2022,Current challenges facing employees - Fear of the unknown,int64,0,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Anxiety,int64,0,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Feeling overwhelmed and isolated,int64,1,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Fear of contracting Covid-19,int64,0,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Financial issues,int64,1,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Relationship issues,int64,0,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Fear of losing my job,int64,0,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Parenting,int64,0,2,0.0
+Prudential Africa,2022,Current challenges facing employees - Other (please specify),object,none,11,96.0
+Prudential Africa,2022,"Over the last month, have you had difficulty sleeping?",object,Yes,2,0.6
+Prudential Africa,2022,Do you have trouble thinking clearly?,object,Yes,3,0.6
+Prudential Africa,2022,Do you cry more than usual?,object,No,2,0.3
+Prudential Africa,2022,Do you find it difficult to enjoy your daily activities?,object,Sometimes,3,0.6
+Prudential Africa,2022,Do you find it difficult to make decisions?,object,Sometimes,3,0.6
+Prudential Africa,2022,Are you unable to play a useful part in life?,object,Sometimes,3,1.2
+Prudential Africa,2022,Have you lost interest in things you previously enjoyed doing?,object,Yes,3,0.9
+Prudential Africa,2022,"To what extent do you agree with the following statement ""I feel I have nothing to look forward to""",object,Neutral,5,0.3
+Prudential Africa,2022,Has the thought of ending your life been on your mind?,object,Yes,2,0.9
+Prudential Africa,2022,Do you feel tired all the time?,object,Sometimes,3,0.3
+Prudential Africa,2022,On what areas would you require support on?,object,work life balance,200,23.5
+Prudential Africa,2022,Would you like us to connect you and/or your dependents with our professional counselors for support?,object,Yes,2,0.6
+Prudential West Africa,2022,Unnamed: 0,int64,0,125,0.0
+Prudential West Africa,2022,Respondent ID,object,118141966600,125,0.0
+Prudential West Africa,2022,Please select your gender,object,Female,2,0.0
+Prudential West Africa,2022,Kindly select your age group,object,25-34,5,0.0
+Prudential West Africa,2022,Please select your local business unit,object,PZLI,2,0.0
+Prudential West Africa,2022,"Overall, how do you rate the state of your mental well-being?",object,Good,5,0.0
+Prudential West Africa,2022,Please reflect on the mental wellness related issues listed below and select all the areas you would like us to address in our regular sessions.,object,Work/job related stressors,1,40.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Emotional intelligence,int64,1,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Financial constraints,int64,0,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Trauma,int64,0,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Work Life Balance,int64,1,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Substance and Drug Dependence,int64,0,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Bereavement and Loss,int64,0,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Relationship Difficulties,int64,1,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Unresolved Childhood Difficulties,int64,0,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Anxiety and Depression,int64,0,2,0.0
+Prudential West Africa,2022,Mental wellness issues requested to address - Other (please specify),object,none of the above,3,97.6
+Prudential West Africa,2022,What challenges are you currently facing?,object,Work life balance,1,49.6
+Prudential West Africa,2022,Current challenges facing employees - Fear of the unknown,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Anxiety,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Feeling overwhelmed and isolated,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Fear of contracting Covid-19,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Financial issues,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Relationship issues,int64,1,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Fear of losing job,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Parenting,int64,0,2,0.0
+Prudential West Africa,2022,Current challenges facing employees - Other (please specify),object,not been easy overcoming a loss,5,96.0
+Prudential West Africa,2022,"Over the last month, have you had difficulty sleeping?",object,No,2,0.8
+Prudential West Africa,2022,Do you have trouble thinking clearly?,object,No,3,0.8
+Prudential West Africa,2022,Do you cry more than usual?,object,No,3,0.0
+Prudential West Africa,2022,Do you find it difficult to enjoy your daily activities?,object,No,3,0.0
+Prudential West Africa,2022,Do you find it difficult to make decisions?,object,No,3,0.0
+Prudential West Africa,2022,Are you unable to play a useful part in life?,object,No,3,0.0
+Prudential West Africa,2022,Have you lost interest in things you previously enjoyed doing?,object,No,3,0.8
+Prudential West Africa,2022,"To what extent do you agree with the following statement ""I feel I have nothing to look forward to""",object,Disagree,5,0.0
+Prudential West Africa,2022,Has the thought of ending your life been on your mind?,object,No,2,0.0
+Prudential West Africa,2022,Do you feel tired all the time?,object,Sometimes,3,0.8
+Prudential West Africa,2022,On what areas would you require support on?,object,Financials,85,28.8
+Prudential West Africa,2022,Would you like us to connect you and/or your dependents with our professional counselors for support?,object,No,2,3.2
+HD Centre,2024,Respondent ID,float64,118664444486.0,5,0.0
+HD Centre,2024,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+HD Centre,2024,Please select your gender,object,Female,1,0.0
+HD Centre,2024,Kindly select your age group,object,36-40 years,4,0.0
+HD Centre,2024,Please select your respective functional unit from the dropdown below.,object,Projects,3,0.0
+HD Centre,2024,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,3.0,3,20.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - ZUMBA,float64,3.0,2,40.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - SWIMMING,float64,1.0,1,60.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - HIKING,float64,8.0,3,20.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - CYCLING,float64,1.0,1,60.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - RUNNING,float64,1.0,1,60.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - FOOTBALL,float64,1.0,1,60.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEN’ S CAVE,float64,1.0,1,60.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - LADIES CLUB,float64,3.0,2,40.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - BOOK CLUB,float64,3.0,2,40.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - DIET/NUTRITION PROGRAMS,float64,8.0,3,20.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - STAIRCASE/STEP CHALLENGE,float64,3.0,2,40.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEDITATION/YOGA/MUSIC,int64,10,4,0.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - QUIZ DAYS,float64,1.0,1,60.0
+HD Centre,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - Other (please specify),float64,ALL NULL,0,100.0
+HD Centre,2024,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,40.0
+HD Centre,2024,Champion/Committee Interested joining as member - ZUMBA,object,ZUMBA,1,60.0
+HD Centre,2024,Champion/Committee Interested joining as member - SWIMMING,float64,ALL NULL,0,100.0
+HD Centre,2024,Champion/Committee Interested joining as member - HIKING,object,HIKING,1,80.0
+HD Centre,2024,Champion/Committee Interested joining as member - CYCLING,float64,ALL NULL,0,100.0
+HD Centre,2024,Champion/Committee Interested joining as member - RUNNING,float64,ALL NULL,0,100.0
+HD Centre,2024,Champion/Committee Interested joining as member - FOOTBALL,float64,ALL NULL,0,100.0
+HD Centre,2024,Champion/Committee Interested joining as member - MEN'S CAVE,float64,ALL NULL,0,100.0
+HD Centre,2024,Champion/Committee Interested joining as member - LADIES CLUB,object,LADIES CLUB,1,60.0
+HD Centre,2024,Champion/Committee Interested joining as member - BOOK CLUB,object,BOOK CLUB,1,60.0
+HD Centre,2024,Champion/Committee Interested joining as member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,40.0
+HD Centre,2024,Champion/Committee Interested joining as member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,60.0
+HD Centre,2024,Champion/Committee Interested joining as member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,60.0
+HD Centre,2024,Champion/Committee Interested joining as member - QUIZ DAYS,object,QUIZ DAYS,1,80.0
+HD Centre,2024,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,60.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Work/job-related stressors,object,Work/job-related stressors,1,40.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Building Healthy families,object,Building Healthy families,1,80.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Emotional Wellbeing,object,Emotional Wellbeing,1,20.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Financial Wellbeing,object,Financial Wellbeing,1,0.0
+HD Centre,2024,"Mental Wellness Issue would like adressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,60.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,80.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Healthy Relationships,object,Healthy Relationships,1,80.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,60.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Anxiety and Depression,object,Anxiety and Depression,1,20.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Work-life balance,object,Work-life balance,1,0.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Lifestyle diseases management,object,Lifestyle diseases management,1,60.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,60.0
+HD Centre,2024,Mental Wellness Issue would like adressed - Other (please specify),float64,ALL NULL,0,100.0
+HD Centre,2024,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,20.0
+HD Centre,2024,Training Program Interest Joining - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,0.0
+HD Centre,2024,Training Program Interest Joining - Baby minder trainings (training for your nannies),float64,ALL NULL,0,100.0
+HD Centre,2024,Training Program Interest Joining - Youth/Peer mentorship program (Training for your adolescent son/daughter),float64,ALL NULL,0,100.0
+HD Centre,2024,Training Program Interest Joining - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,40.0
+HD Centre,2024,Training Program Interest Joining - Other (please specify),float64,ALL NULL,0,100.0
+HD Centre,2024,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,60.0
+HD Centre,2024,Health & Wellbeing Club Interested Joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,40.0
+HD Centre,2024,"Health & Wellbeing Club Interested Joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,20.0
+HD Centre,2024,"Health & Wellbeing Club Interested Joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,40.0
+HD Centre,2024,Health & Wellbeing Club Interested Joining - Other (please specify),float64,ALL NULL,0,100.0
+Hotpoint,2024,Respondent ID,float64,118725860443.0,143,0.0
+Hotpoint,2024,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Hotpoint,2024,Please select your gender,object,Male,2,0.0
+Hotpoint,2024,Kindly select your age group,object,31-35 years,7,0.0
+Hotpoint,2024,Please select your department from the drop down below,object,Retail,13,0.0
+Hotpoint,2024,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,10.0,10,35.0
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - ZUMBA,float64,6.0,10,44.8
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - SWIMMING,float64,9.0,10,36.4
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - HIKING,float64,3.0,10,41.3
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - CYCLING,float64,9.0,10,37.1
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - RUNNING,float64,9.0,10,35.7
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - FOOTBALL,float64,10.0,10,37.8
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEN’ S CAVE,float64,10.0,10,46.9
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - LADIES CLUB,float64,8.0,9,56.6
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - BOOK CLUB,float64,7.0,10,47.6
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - DIET/NUTRITION PROGRAMS,float64,10.0,10,39.9
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - STAIRCASE/STEP CHALLENGE,float64,10.0,10,41.3
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEDITATION/YOGA/MUSIC,float64,6.0,10,40.6
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - QUIZ DAYS,float64,6.0,10,44.8
+Hotpoint,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - Other (please specify),object,"Art and craft, walking",3,97.9
+Hotpoint,2024,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,72.0
+Hotpoint,2024,Champion/Committee Interested joining - ZUMBA,object,ZUMBA,1,89.5
+Hotpoint,2024,Champion/Committee Interested joining - SWIMMING,object,SWIMMING,1,83.2
+Hotpoint,2024,Champion/Committee Interested joining - HIKING,object,HIKING,1,86.0
+Hotpoint,2024,Champion/Committee Interested joining - CYCLING,object,CYCLING,1,81.1
+Hotpoint,2024,Champion/Committee Interested joining - RUNNING,object,RUNNING,1,89.5
+Hotpoint,2024,Champion/Committee Interested joining - FOOTBALL,object,FOOTBALL,1,83.2
+Hotpoint,2024,Champion/Committee Interested joining - MEN'S CAVE,object,MEN'S CAVE,1,95.1
+Hotpoint,2024,Champion/Committee Interested joining - LADIES CLUB,object,LADIES CLUB,1,90.9
+Hotpoint,2024,Champion/Committee Interested joining - BOOK CLUB,object,BOOK CLUB,1,88.1
+Hotpoint,2024,Champion/Committee Interested joining - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,81.8
+Hotpoint,2024,Champion/Committee Interested joining - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,91.6
+Hotpoint,2024,Champion/Committee Interested joining - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,84.6
+Hotpoint,2024,Champion/Committee Interested joining - QUIZ DAYS,object,QUIZ DAYS,1,93.0
+Hotpoint,2024,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,74.1
+Hotpoint,2024,Mental Wellness Issue would like addressed - Work/job-related stressors,object,Work/job-related stressors,1,60.1
+Hotpoint,2024,Mental Wellness Issue would like addressed - Building Healthy families,object,Building Healthy families,1,76.9
+Hotpoint,2024,Mental Wellness Issue would like addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,65.0
+Hotpoint,2024,Mental Wellness Issue would like addressed - Financial Wellbeing,object,Financial Wellbeing,1,50.3
+Hotpoint,2024,"Mental Wellness Issue would like addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,84.6
+Hotpoint,2024,Mental Wellness Issue would like addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,92.3
+Hotpoint,2024,Mental Wellness Issue would like addressed - Healthy Relationships,object,Healthy Relationships,1,77.6
+Hotpoint,2024,Mental Wellness Issue would like addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,88.8
+Hotpoint,2024,Mental Wellness Issue would like addressed - Anxiety and Depression,object,Anxiety and Depression,1,75.5
+Hotpoint,2024,Mental Wellness Issue would like addressed - Work-life balance,object,Work-life balance,1,57.3
+Hotpoint,2024,Mental Wellness Issue would like addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,79.0
+Hotpoint,2024,Mental Wellness Issue would like addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,80.4
+Hotpoint,2024,Mental Wellness Issue would like addressed - Other (please specify),object,NO,2,98.6
+Hotpoint,2024,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,58.0
+Hotpoint,2024,Training Program Interested Attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,67.1
+Hotpoint,2024,Training Program Interested Attending - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,95.8
+Hotpoint,2024,Training Program Interested Attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,87.4
+Hotpoint,2024,Training Program Interested Attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,66.4
+Hotpoint,2024,Training Program Interested Attending - Other (please specify),float64,ALL NULL,0,100.0
+Hotpoint,2024,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,95.8
+Hotpoint,2024,Health & Wellbeing Club Interest - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,81.1
+Hotpoint,2024,"Health & Wellbeing Club Interest - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,68.5
+Hotpoint,2024,"Health & Wellbeing Club Interest - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,49.7
+Hotpoint,2024,Health & Wellbeing Club Interest - Other (please specify),object,NO,1,99.3
+UNFCU,2024,Respondent ID,float64,118540096463.0,32,0.0
+UNFCU,2024,Please select your gender,object,Male,2,0.0
+UNFCU,2024,Kindly select your age group,object,46-50 years,6,0.0
+UNFCU,2024,Please select your respective functional unit from the dropdown below.,object,Marketing,5,0.0
+UNFCU,2024,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,6.0,9,12.5
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - ZUMBA,float64,4.0,10,18.8
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - SWIMMING,float64,5.0,8,18.8
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - HIKING,float64,1.0,9,15.6
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - CYCLING,float64,8.0,9,15.6
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - RUNNING,float64,10.0,9,18.8
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - FOOTBALL,float64,5.0,9,21.9
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEN’ S CAVE,float64,9.0,6,28.1
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - LADIES CLUB,float64,5.0,8,31.2
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - BOOK CLUB,float64,2.0,9,28.1
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - DIET/NUTRITION PROGRAMS,float64,9.0,8,15.6
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - STAIRCASE/STEP CHALLENGE,float64,7.0,10,15.6
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEDITATION/YOGA/MUSIC,float64,5.0,7,15.6
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - QUIZ DAYS,float64,5.0,9,18.8
+UNFCU,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - Other (please specify),float64,ALL NULL,0,100.0
+UNFCU,2024,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,71.9
+UNFCU,2024,Champion/Committee Interested Joining - ZUMBA,object,ZUMBA,1,84.4
+UNFCU,2024,Champion/Committee Interested Joining - SWIMMING,object,SWIMMING,1,81.2
+UNFCU,2024,Champion/Committee Interested Joining - HIKING,object,HIKING,1,84.4
+UNFCU,2024,Champion/Committee Interested Joining - CYCLING,object,CYCLING,1,78.1
+UNFCU,2024,Champion/Committee Interested Joining - RUNNING,object,RUNNING,1,93.8
+UNFCU,2024,Champion/Committee Interested Joining - FOOTBALL,object,FOOTBALL,1,90.6
+UNFCU,2024,Champion/Committee Interested Joining - MEN'S CAVE,object,MEN'S CAVE,1,84.4
+UNFCU,2024,Champion/Committee Interested Joining - LADIES CLUB,object,LADIES CLUB,1,81.2
+UNFCU,2024,Champion/Committee Interested Joining - BOOK CLUB,object,BOOK CLUB,1,75.0
+UNFCU,2024,Champion/Committee Interested Joining - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,81.2
+UNFCU,2024,Champion/Committee Interested Joining - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,90.6
+UNFCU,2024,Champion/Committee Interested Joining - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,78.1
+UNFCU,2024,Champion/Committee Interested Joining - QUIZ DAYS,object,QUIZ DAYS,1,84.4
+UNFCU,2024,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,62.5
+UNFCU,2024,Mental Wellness Issue requestes to address - Work/job-related stressors,object,Work/job-related stressors,1,53.1
+UNFCU,2024,Mental Wellness Issue requestes to address - Building Healthy families,object,Building Healthy families,1,56.2
+UNFCU,2024,Mental Wellness Issue requestes to address - Emotional Wellbeing,object,Emotional Wellbeing,1,28.1
+UNFCU,2024,Mental Wellness Issue requestes to address - Financial Wellbeing,object,Financial Wellbeing,1,37.5
+UNFCU,2024,"Mental Wellness Issue requestes to address - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,68.8
+UNFCU,2024,Mental Wellness Issue requestes to address - Substance and Drug Dependence,object,Substance and Drug Dependence,1,75.0
+UNFCU,2024,Mental Wellness Issue requestes to address - Healthy Relationships,object,Healthy Relationships,1,50.0
+UNFCU,2024,Mental Wellness Issue requestes to address - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,65.6
+UNFCU,2024,Mental Wellness Issue requestes to address - Anxiety and Depression,object,Anxiety and Depression,1,56.2
+UNFCU,2024,Mental Wellness Issue requestes to address - Work-life balance,object,Work-life balance,1,50.0
+UNFCU,2024,Mental Wellness Issue requestes to address - Lifestyle diseases management,object,Lifestyle diseases management,1,62.5
+UNFCU,2024,Mental Wellness Issue requestes to address - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,53.1
+UNFCU,2024,Mental Wellness Issue requestes to address - Other (please specify),object,Managing and relating with adult children,1,96.9
+UNFCU,2024,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,40.6
+UNFCU,2024,Training Program Interested Attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,62.5
+UNFCU,2024,Training Program Interested Attending - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,81.2
+UNFCU,2024,Training Program Interested Attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,75.0
+UNFCU,2024,Training Program Interested Attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,56.2
+UNFCU,2024,Training Program Interested Attending - Other (please specify),float64,ALL NULL,0,100.0
+UNFCU,2024,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,87.5
+UNFCU,2024,Health & Wellbeing Club Interested Joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,71.9
+UNFCU,2024,"Health & Wellbeing Club Interested Joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,56.2
+UNFCU,2024,"Health & Wellbeing Club Interested Joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,31.2
+UNFCU,2024,Health & Wellbeing Club Interested Joining - Other (please specify),object,Financial well being club,1,96.9
+Water.Org,2024,Respondent ID,float64,118591668450.0,14,0.0
+Water.Org,2024,Please select your gender,object,Female,2,0.0
+Water.Org,2024,Kindly select your age group,object,41-45 years,7,0.0
+Water.Org,2024,Please indicate your department.,object,Not Selected,13,0.0
+Water.Org,2024,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,10.0,4,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - ZUMBA,float64,8.0,6,21.4
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - SWIMMING,float64,10.0,7,7.1
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - HIKING,float64,7.0,7,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - CYCLING,float64,9.0,7,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - RUNNING,float64,6.0,8,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - FOOTBALL,float64,5.0,5,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEN’ S CAVE,float64,3.0,4,28.6
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - LADIES CLUB,float64,9.0,5,21.4
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - BOOK CLUB,float64,9.0,6,21.4
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - DIET/NUTRITION PROGRAMS,float64,10.0,7,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - STAIRCASE/STEP CHALLENGE,float64,10.0,7,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEDITATION/YOGA/MUSIC,float64,10.0,6,7.1
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - QUIZ DAYS,float64,5.0,4,14.3
+Water.Org,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - Other (please specify),object,"boxing, pilates",4,71.4
+Water.Org,2024,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,57.1
+Water.Org,2024,Champion/committee interested joining - ZUMBA,object,ZUMBA,1,78.6
+Water.Org,2024,Champion/committee interested joining - SWIMMING,object,SWIMMING,1,78.6
+Water.Org,2024,Champion/committee interested joining - HIKING,object,HIKING,1,92.9
+Water.Org,2024,Champion/committee interested joining - CYCLING,float64,ALL NULL,0,100.0
+Water.Org,2024,Champion/committee interested joining - RUNNING,object,RUNNING,1,64.3
+Water.Org,2024,Champion/committee interested joining - FOOTBALL,object,FOOTBALL,1,92.9
+Water.Org,2024,Champion/committee interested joining - MEN'S CAVE,object,MEN'S CAVE,1,92.9
+Water.Org,2024,Champion/committee interested joining - LADIES CLUB,object,LADIES CLUB,1,78.6
+Water.Org,2024,Champion/committee interested joining - BOOK CLUB,object,BOOK CLUB,1,71.4
+Water.Org,2024,Champion/committee interested joining - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,57.1
+Water.Org,2024,Champion/committee interested joining - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,85.7
+Water.Org,2024,Champion/committee interested joining - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,71.4
+Water.Org,2024,Champion/committee interested joining - QUIZ DAYS,object,QUIZ DAYS,1,85.7
+Water.Org,2024,Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,71.4
+Water.Org,2024,Mental wellness issue would like addressed - Work/job-related stressors,object,Work/job-related stressors,1,50.0
+Water.Org,2024,Mental wellness issue would like addressed - Building Healthy families,object,Building Healthy families,1,57.1
+Water.Org,2024,Mental wellness issue would like addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,35.7
+Water.Org,2024,Mental wellness issue would like addressed - Financial Wellbeing,object,Financial Wellbeing,1,21.4
+Water.Org,2024,"Mental wellness issue would like addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,64.3
+Water.Org,2024,Mental wellness issue would like addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,92.9
+Water.Org,2024,Mental wellness issue would like addressed - Healthy Relationships,object,Healthy Relationships,1,57.1
+Water.Org,2024,Mental wellness issue would like addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,71.4
+Water.Org,2024,Mental wellness issue would like addressed - Anxiety and Depression,object,Anxiety and Depression,1,78.6
+Water.Org,2024,Mental wellness issue would like addressed - Work-life balance,object,Work-life balance,1,28.6
+Water.Org,2024,Mental wellness issue would like addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,35.7
+Water.Org,2024,Mental wellness issue would like addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,57.1
+Water.Org,2024,Mental wellness issue would like addressed - Other (please specify),object,grief,1,92.9
+Water.Org,2024,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,42.9
+Water.Org,2024,Training programs interested attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,71.4
+Water.Org,2024,Training programs interested attending - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,78.6
+Water.Org,2024,Training programs interested attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,64.3
+Water.Org,2024,Training programs interested attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,35.7
+Water.Org,2024,Other (please specify),float64,ALL NULL,0,100.0
+Water.Org,2024,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,92.9
+Water.Org,2024,Health & wellbeing club interested joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,78.6
+Water.Org,2024,"Health & wellbeing club interested joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,42.9
+Water.Org,2024,"Health & wellbeing club interested joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,14.3
+Water.Org,2024,Health & wellbeing club interested joining - Other (please specify),float64,ALL NULL,0,100.0
+Water.Org,2024,What’s your preferred gym?,object,"1. F45, 2. LVL24LIFE or  a 3. Hyatt Gym",13,7.1
+Water.Org,2024,Please include physical address of the gym.,object,"lavington, westlands kilimani",13,7.1
+WWF Kenya,2024,Respondent ID,float64,118536595606.0,35,0.0
+WWF Kenya,2024,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+WWF Kenya,2024,Please select your gender,object,Male,2,0.0
+WWF Kenya,2024,Kindly select your age group,object,31-35 years,7,0.0
+WWF Kenya,2024,Please select your respective functional unit from the dropdown below.,object,Planning and Performance,8,0.0
+WWF Kenya,2024,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,2.0,9,22.9
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - ZUMBA,float64,5.0,8,34.3
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - SWIMMING,float64,3.0,9,25.7
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - HIKING,float64,3.0,9,34.3
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - CYCLING,float64,1.0,10,28.6
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - RUNNING,float64,1.0,9,31.4
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - FOOTBALL,float64,1.0,8,31.4
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEN’ S CAVE,float64,1.0,7,45.7
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - LADIES CLUB,float64,4.0,8,54.3
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - BOOK CLUB,float64,5.0,9,31.4
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - DIET/NUTRITION PROGRAMS,float64,5.0,9,34.3
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - STAIRCASE/STEP CHALLENGE,float64,5.0,9,37.1
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - MEDITATION/YOGA/MUSIC,float64,6.0,10,28.6
+WWF Kenya,2024,Rank of wellness activities preference and participation (1 Least - 10 Highest) - QUIZ DAYS,float64,2.0,8,37.1
+WWF Kenya,2024,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,71.4
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - ZUMBA,float64,ALL NULL,0,100.0
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - SWIMMING,object,SWIMMING,1,85.7
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - HIKING,object,HIKING,1,82.9
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - CYCLING,object,CYCLING,1,80.0
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - RUNNING,object,RUNNING,1,91.4
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - FOOTBALL,object,FOOTBALL,1,88.6
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - MEN'S CAVE,object,MEN'S CAVE,1,91.4
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - LADIES CLUB,object,LADIES CLUB,1,97.1
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - BOOK CLUB,object,BOOK CLUB,1,88.6
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,88.6
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,97.1
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,88.6
+WWF Kenya,2024,Which wellness activities would you like to join as a champion/committee member - QUIZ DAYS,object,QUIZ DAYS,1,94.3
+WWF Kenya,2024,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,74.3
+WWF Kenya,2024,Mental wellness issues to address in sessions - Work/job-related stressors,object,Work/job-related stressors,1,48.6
+WWF Kenya,2024,Mental wellness issues to address in sessions - Building Healthy families,object,Building Healthy families,1,77.1
+WWF Kenya,2024,Mental wellness issues to address in sessions - Emotional Wellbeing,object,Emotional Wellbeing,1,51.4
+WWF Kenya,2024,Mental wellness issues to address in sessions - Financial Wellbeing,object,Financial Wellbeing,1,51.4
+WWF Kenya,2024,"Mental wellness issues to address in sessions - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,77.1
+WWF Kenya,2024,Mental wellness issues to address in sessions - Substance and Drug Dependence,object,Substance and Drug Dependence,1,91.4
+WWF Kenya,2024,Mental wellness issues to address in sessions - Healthy Relationships,object,Healthy Relationships,1,65.7
+WWF Kenya,2024,Mental wellness issues to address in sessions - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,88.6
+WWF Kenya,2024,Mental wellness issues to address in sessions - Anxiety and Depression,object,Anxiety and Depression,1,65.7
+WWF Kenya,2024,Mental wellness issues to address in sessions - Work-life balance,object,Work-life balance,1,45.7
+WWF Kenya,2024,Mental wellness issues to address in sessions - Lifestyle diseases management,object,Lifestyle diseases management,1,68.6
+WWF Kenya,2024,Mental wellness issues to address in sessions - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,74.3
+WWF Kenya,2024,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,65.7
+WWF Kenya,2024,Training programs Interested attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,65.7
+WWF Kenya,2024,Training programs Interested attending - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,97.1
+WWF Kenya,2024,Training programs Interested attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,71.4
+WWF Kenya,2024,Training programs Interested attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,62.9
+WWF Kenya,2024,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,85.7
+WWF Kenya,2024,Health & wellbeing clubs Interested joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,85.7
+WWF Kenya,2024,"Health & wellbeing clubs Interested joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,68.6
+WWF Kenya,2024,"Health & wellbeing clubs Interested joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,37.1
+ABSA,2025,Respondent_ID,object,118935184951,1104,0.0
+ABSA,2025,Branch,object,Absa Headquarters (KE),104,0.0
+ABSA,2025,Function,object,COO,100,0.0
+ABSA,2025,Consent,object,Yes,1,0.0
+ABSA,2025,Gender,object,Male,2,0.0
+ABSA,2025,Age_Group,object,35-44,5,0.0
+ABSA,2025,"Are you aware of the current EWP, including health and wellness initiatives offered by the organization?",object,No,2,0.0
+ABSA,2025,Did you participate in the wellness caravan during the wellness month?,object,No,2,0.2
+ABSA,2025,"If No to Question 10, please state your reason for not participating",object,I was on leave,237,62.8
+ABSA,2025,"Reflecting on your experiences in 2025, which personal factors have affected your well-being? (Select all that apply.)",object,None of the above,1,59.1
+ABSA,2025,Personal Factors Affecting Wellbeing - Career/Education,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Work Stressors,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Work-Life Imbalance,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Gen-Z Protests,object,Gen-Z protests,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Marital Issues,object,Marital issues,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Financial Challenges,object,Financial challenges,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Relationship Difficulties,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Parenting Challenges,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Anxiety/Depression,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Traumatic Experiences,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Loss & Grief,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Alcohol/Dependency,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Chronic Diseases,object,Not Selected,2,0.0
+ABSA,2025,Personal Factors Affecting Wellbeing - Other,object,Not Selected,13,0.0
+ABSA,2025,"During the year 2025, have you accessed the Employee Assistance Program counselling services?",object,No,2,1.6
+ABSA,2025,"If No to Question 13, please state your reason for not participating",object,I was lost,204,50.7
+ABSA,2025,"Based on the current economic developments, what financial empowerment programs would you like to be implemented in the EWP program?",object,Personal financial management,1,71.1
+ABSA,2025,Financial Empowerment - Debt Management,object,Debt management,1,89.0
+ABSA,2025,Financial Empowerment - Retirement Planning,object,Retirement planning,1,80.0
+ABSA,2025,Financial Empowerment - Investment,object,Investment,1,63.1
+ABSA,2025,Financial Empowerment - Financial Planning,object,Financial planning,1,78.0
+ABSA,2025,Financial Empowerment - Other,object,Savings,14,69.8
+ABSA,2025,Which areas of mental health and wellbeing would you propose to be included in the wellness program to address your needs?,object,Anxiety/depression,1,87.3
+ABSA,2025,Mental Health/Wellbeing Focus - Lifestyle Diseases,object,Health and well-being including lifestyle diseases,1,84.0
+ABSA,2025,Mental Health/Wellbeing Focus - Addiction/Stigma,object,Dealing with addiction and related stigma,1,95.3
+ABSA,2025,Mental Health/Wellbeing Focus - Men/Women Forum,object,Men Cave/Women Forum,1,86.8
+ABSA,2025,Mental Health/Wellbeing Focus - Relationships/Marriages,object,Building healthy relationships/marriages,1,88.9
+ABSA,2025,Mental Health/Wellbeing Focus - Parenting/Childcare,object,Parenting and childcare,1,89.9
+ABSA,2025,Mental Health/Wellbeing Focus - Awareness Sessions,object,Increased awareness sessions on mental health issu,1,63.9
+ABSA,2025,Mental Health/Wellbeing Focus - Financial Literacy,object,Money matters/Financial coaching and literacy sess,1,72.9
+ABSA,2025,Mental Health/Wellbeing Focus - Workplace Relationships,object,Building healthy relationships at work (colleagues,1,82.1
+ABSA,2025,Mental Health/Wellbeing Focus - Teens Program,object,Develop a Teens program on contemporary topics,1,96.6
+ABSA,2025,Mental Health/Wellbeing Focus - Other,object,WORK LIFE INTEGRATION,51,68.4
+ABSA,2025,What would you recommend to the organization to cultivate a healthy work environment that promotes maximum productivity? Please prioritize your suggestions:,object,Urgent,3,7.1
+ABSA,2025,"Embrace teamwork among colleagues through employee engagement forums/ sporting activities, team building",object,Not Important.,3,6.8
+ABSA,2025,"Initiate family visit days to the office- e.g., during customer service week…",object,Not Important.,3,10.3
+ABSA,2025,Improve social support structures among employees/team members,object,Urgent,3,7.2
+ABSA,2025,State any other program…,object,LEAVE  DAYS,4,99.6
+ABSA,2025,I am interested in the Mental Health Peer Counselling Training Program,object,Yes,2,1.6
+ABSA,2025,I am interested in being trained as a wellness champion,object,Yes,2,1.4
+ABSA,2025,Did you participate in the 2024 survey?,object,Yes,2,2.4
+ABSA,2025,"If you participated in the 2024 survey , what changes have you observed",object,NOT REALLY,177,31.9
+ABSA,2025,Any suggestions to include in our next survey?,object,Change your questions,133,7.2
+Buhler Limited,2025,Respondent ID,float64,118812188365.0,23,0.0
+Buhler Limited,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you",object,I Agree,1,0.0
+Buhler Limited,2025,Please select your gender,object,Male,2,0.0
+Buhler Limited,2025,Kindly select your age bracket,object,25-39 years,3,0.0
+Buhler Limited,2025,Please select your department from the list below,object,Customer Service,3,0.0
+Buhler Limited,2025,How would you rate the state of your mental well-being?,object,Very Good,4,0.0
+Buhler Limited,2025,How would you rate the current state of your mental well-being?,object,I am OK and coping well,3,0.0
+Buhler Limited,2025,"If you need support in Q6 above, please state what support you would need?",object,-,4,78.3
+Buhler Limited,2025,Please reflect on the mental Wellness related issues listed below and tick the areas you would like us to address on our regular sessions? (Select more than one if applicable),object,Work/job related stressors,1,26.1
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_1_Emotional_intelligence,object,Emotional intelligence,1,43.5
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_2_Financial_constraints,object,Financial constraints,1,47.8
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_3_Trauma,object,Trauma,1,82.6
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_4_Substance_and_Drug_Dependence,object,Substance and Drug Dependence,1,91.3
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_5_Relationship_Difficulties,object,Relationship Difficulties,1,78.3
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_6_Unresolved_Childhood_Difficulties,object,Unresolved Childhood Difficulties,1,78.3
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_7_Anxiety_and_Depression,object,Anxiety and Depression,1,65.2
+Buhler Limited,2025,Q8 Mental Wellness Issues would like addressed_8_Other_please_specify,object,SEXUALITY,1,95.7
+Buhler Limited,2025,Are you going through a tough emotional situation right now?,object,No,3,0.0
+Buhler Limited,2025,"During the past 4 weeks, have you had any problems with your work or daily life due to any emotional problems, such as feeling depressed, sad, or anxious?",object,No,2,0.0
+Buhler Limited,2025,"During the past 4 weeks, how often has your mental health affected your ability to get work done?",object,Not so often,3,0.0
+Buhler Limited,2025,"During the past two weeks, how often has your mental health affected your relationships?",object,Not at all,3,0.0
+Buhler Limited,2025,Have you ever been diagnosed with a mental disorder before?,object,No,2,0.0
+Buhler Limited,2025,Have you seen a therapist in the recent past?,object,No,2,0.0
+Buhler Limited,2025,Is there a history of mental disorder in your family?,object,No,3,0.0
+Buhler Limited,2025,Do you feel content with your relationships and family?,object,Yes,3,0.0
+Buhler Limited,2025,When was the last time you were really happy?,object,Few days ago,4,0.0
+Buhler Limited,2025,When was the last time you felt good about yourself?,object,Few days ago,4,0.0
+Buhler Limited,2025,How often do you feel positive about your life?,object,Always,4,0.0
+Buhler Limited,2025,When was the last time you had a positive outlook on life?,object,Few days ago,4,0.0
+Buhler Limited,2025,How many hours do you sleep per day?,object,7 - 9,2,0.0
+Buhler Limited,2025,How is your quality of sleep?,object,Good,5,0.0
+Buhler Limited,2025,How often do you smoke?,object,Never,3,0.0
+Buhler Limited,2025,How often do you drink?,object,Once in a few weeks,3,0.0
+Buhler Limited,2025,How do you usually cope with the general stresses of life and the mental health challenges that come your way?,object,I seek help from my religious leader,4,0.0
+Buhler Limited,2025,Other (please specify),object,Keep calm and hope for the best,2,91.3
+Buhler Limited,2025,"What about the amount of social support you receive from your family, friends, etc? When you have the need to talk to someone or go on outings with friends and/or relatives, do you feel there is someone who fulfills these needs?",object,High degree of social support (Much support is eit,4,0.0
+Buhler Limited,2025,Have you ever attended a Mental Health Awareness Session?,object,No,2,0.0
+Buhler Limited,2025,How would you prefer to receive information and advice about mental health?,object,Online,4,0.0
+Buhler Limited,2025,Other (please specify).1,float64,ALL NULL,0,100.0
+Buhler Limited,2025,Are you aware of the Employee Assistance Program services offered by Buhler to all its staff and dependents through Minet?,object,No,2,0.0
+Buhler Limited,2025,"If yes to Question 29, have you ever accessed the service?",object,No,2,60.9
+Buhler Limited,2025,"If no, please state the reason.",object,Never felt important.,4,82.6
+Buhler Limited,2025,Would you like us to link you or your dependents to our professional counselors for support?,object,Yes,2,0.0
+Buhler Limited,2025,"If yes, please provide your contact information",float64,ALL NULL,0,100.0
+Buhler Limited,2025,sleep_numeric,float64,7.0,2,0.0
+Compassion International Kenya,2025,Respondent ID,float64,114907692509.0,24,0.0
+Compassion International Kenya,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Compassion International Kenya,2025,Please select your gender,object,Female,2,0.0
+Compassion International Kenya,2025,Kindly select your age group,object,31-35 years,6,0.0
+Compassion International Kenya,2025,Please select your respective functional unit from the dropdown below,object,Global Program - Program Support,7,0.0
+Compassion International Kenya,2025,Please select your categorization of work locations,object,Hybrid,3,0.0
+Compassion International Kenya,2025,"Rank of wellness activity preference/participation(1 least 10 highest) - Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,1.0,8,25.0
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - ZUMBA,float64,8.0,7,33.3
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - SWIMMING,float64,4.0,8,29.2
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - HIKING,float64,1.0,8,25.0
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - CYCLING,float64,1.0,7,33.3
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - RUNNING,float64,1.0,8,25.0
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - FOOTBALL,float64,1.0,7,29.2
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - MEN’ S CAVE,float64,1.0,6,29.2
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - LADIES CLUB,float64,1.0,4,41.7
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - BOOK CLUB,float64,1.0,9,33.3
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,7.0,9,16.7
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,10.0,6,20.8
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - QUIZ DAYS,float64,1.0,6,29.2
+Compassion International Kenya,2025,Rank of wellness activity preference/participation(1 least 10 highest) - Other (please specify),object,Walking,4,75.0
+Compassion International Kenya,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,75.0
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - ZUMBA,object,ZUMBA,1,95.8
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - SWIMMING,object,SWIMMING,1,70.8
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - HIKING,object,HIKING,1,83.3
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - CYCLING,object,CYCLING,1,83.3
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - RUNNING,object,RUNNING,1,95.8
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - FOOTBALL,object,FOOTBALL,1,83.3
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - MEN'S CAVE,object,MEN'S CAVE,1,70.8
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - LADIES CLUB,object,LADIES CLUB,1,95.8
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - BOOK CLUB,object,BOOK CLUB,1,79.2
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,70.8
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,83.3
+Compassion International Kenya,2025,Would Like to join as Champion/Committee member - QUIZ DAYS,object,QUIZ DAYS,1,91.7
+Compassion International Kenya,2025,"Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (where applicable, tick more than one option).",object,Personal issues,1,54.2
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Work/job-related stressors,object,Work/job-related stressors,1,37.5
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Building Healthy families,object,Building Healthy families,1,41.7
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,41.7
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Financial Wellbeing,object,Financial Wellbeing,1,29.2
+Compassion International Kenya,2025,"Mental Wellness Issues Would Like Addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,54.2
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,87.5
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Healthy Relationships,object,Healthy Relationships,1,41.7
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,66.7
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Anxiety and Depression,object,Anxiety and Depression,1,50.0
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Work-life balance,object,Work-life balance,1,25.0
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,50.0
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,54.2
+Compassion International Kenya,2025,Mental Wellness Issues Would Like Addressed - Other (please specify),float64,ALL NULL,0,100.0
+Compassion International Kenya,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,50.0
+Compassion International Kenya,2025,Training Programs Would Like To Attend - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,54.2
+Compassion International Kenya,2025,Training Programs Would Like To Attend - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,83.3
+Compassion International Kenya,2025,Training Programs Would Like To Attend - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,62.5
+Compassion International Kenya,2025,Training Programs Would Like To Attend - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,33.3
+Compassion International Kenya,2025,Training Programs Would Like To Attend - Other (please specify),float64,ALL NULL,0,100.0
+Compassion International Kenya,2025,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,83.3
+Compassion International Kenya,2025,Soul food (Overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (Overcomers of a challenging or difficul,1,66.7
+Compassion International Kenya,2025,"Wellbeing Clubs Would Like To Join - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,45.8
+Compassion International Kenya,2025,"Wellbeing Clubs Would Like To Join - Health club (Those interested in healthy living aspects; healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,37.5
+Compassion International Kenya,2025,Wellbeing Clubs Would Like To Join - Other (please specify),object,Spiritual wellbeing,1,95.8
+Compassion International Kenya,2025,What is the most important thing for you when it comes to well-being?,object,Peace of mind,17,25.0
+Compassion International Kenya,2025,Are you enrolled in any wellbeing program or initiative?,object,No,2,12.5
+Compassion International Kenya,2025,"If yes, kindly state",object,Running club,7,70.8
+Compassion International Kenya,2025,Have you had any annual wellness checkups this year?,object,No,2,12.5
+Elite Travel Services,2025,Respondent ID,float64,118954005932.0,30,0.0
+Elite Travel Services,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Elite Travel Services,2025,Please select your gender,object,Female,2,0.0
+Elite Travel Services,2025,Kindly select your age group,object,41-45 years,7,0.0
+Elite Travel Services,2025,Please select your respective functional unit from the dropdown below,object,Marketing Department,8,0.0
+Elite Travel Services,2025,"Rank the below proposed wellness activities in order of your preference and participation in the year 2025 (1 being the lowest, while 10 being the highest score)",float64,8.0,8,23.3
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - ZUMBA,float64,10.0,9,40.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - SWIMMING,float64,4.0,8,30.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - HIKING,float64,4.0,9,33.3
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - CYCLING,float64,5.0,6,40.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - RUNNING,float64,4.0,9,33.3
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - FOOTBALL,float64,2.0,6,40.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - MEN’ S CAVE,float64,1.0,2,50.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - LADIES CLUB,float64,2.0,6,46.7
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - BOOK CLUB,float64,1.0,6,46.7
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,7.0,9,30.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,10.0,8,30.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - QUIZ DAYS,float64,6.0,8,40.0
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - MEDITATION/YOGA/MUSIC,float64,10.0,6,33.3
+Elite Travel Services,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - Other (please specify),object,WALKING,3,90.0
+Elite Travel Services,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,73.3
+Elite Travel Services,2025,Would like to join as Champion or Committee member - ZUMBA,object,ZUMBA,1,90.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - SWIMMING,object,SWIMMING,1,80.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - HIKING,object,HIKING,1,80.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - CYCLING,object,CYCLING,1,76.7
+Elite Travel Services,2025,Would like to join as Champion or Committee member - RUNNING,object,RUNNING,1,90.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - FOOTBALL,object,FOOTBALL,1,90.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - MEN'S CAVE,float64,ALL NULL,0,100.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - LADIES CLUB,object,LADIES CLUB,1,90.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - BOOK CLUB,object,BOOK CLUB,1,93.3
+Elite Travel Services,2025,Would like to join as Champion or Committee member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,66.7
+Elite Travel Services,2025,Would like to join as Champion or Committee member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,96.7
+Elite Travel Services,2025,Would like to join as Champion or Committee member - QUIZ DAYS,object,QUIZ DAYS,1,90.0
+Elite Travel Services,2025,Would like to join as Champion or Committee member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,86.7
+Elite Travel Services,2025,"Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (where applicable, tick more than one option).",object,Personal issues,1,76.7
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Work/job-related stressors,object,Work/job-related stressors,1,36.7
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Building Healthy families,object,Building Healthy families,1,73.3
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,50.0
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Financial Wellbeing,object,Financial Wellbeing,1,63.3
+Elite Travel Services,2025,"Mental Wellness Issues Would Like Addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,60.0
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,93.3
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Healthy Relationships,object,Healthy Relationships,1,73.3
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,90.0
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Anxiety and Depression,object,Anxiety and Depression,1,63.3
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Work-life balance,object,Work-life balance,1,30.0
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,56.7
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,60.0
+Elite Travel Services,2025,Mental Wellness Issues Would Like Addressed - Other (please specify),float64,ALL NULL,0,100.0
+Elite Travel Services,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,53.3
+Elite Travel Services,2025,Training Programs Would Like To Attend - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,50.0
+Elite Travel Services,2025,Training Programs Would Like To Attend - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,86.7
+Elite Travel Services,2025,Training Programs Would Like To Attend - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,73.3
+Elite Travel Services,2025,Training Programs Would Like To Attend - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,66.7
+Elite Travel Services,2025,Training Programs Would Like To Attend - Other (please specify),float64,ALL NULL,0,100.0
+Elite Travel Services,2025,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,86.7
+Elite Travel Services,2025,Wellbeing Clubs Interested To Join - Soul food (Overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (Overcomers of a challenging or difficul,1,76.7
+Elite Travel Services,2025,"Wellbeing Clubs Interested To Join - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,53.3
+Elite Travel Services,2025,"Wellbeing Clubs Interested To Join - Health club (Those interested in healthy living aspects; healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,23.3
+Elite Travel Services,2025,Wellbeing Clubs Interested To Join - Other (please specify),float64,ALL NULL,0,100.0
+Hass Petroleum,2025,Respondent ID,float64,114906357053.0,83,0.0
+Hass Petroleum,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Hass Petroleum,2025,Please select your gender,object,Male,2,0.0
+Hass Petroleum,2025,Kindly select your age group,object,31-35 years,8,0.0
+Hass Petroleum,2025,Please select your respective functional unit from the dropdown below,object,Retail,14,0.0
+Hass Petroleum,2025,"Rank the below proposed wellness activities in order of your preference and participation in the year 2025 (1 being the lowest, while 10 being the highest score)",float64,10.0,10,28.9
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - ZUMBA,float64,1.0,9,36.1
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - SWIMMING,float64,1.0,10,32.5
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - HIKING,float64,1.0,10,31.3
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - CYCLING,float64,1.0,10,37.3
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - RUNNING,float64,8.0,10,38.6
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - FOOTBALL,float64,8.0,8,36.1
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - MEN’ S CAVE,float64,1.0,10,42.2
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - LADIES CLUB,float64,1.0,9,39.8
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - BOOK CLUB,float64,1.0,10,39.8
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,10.0,10,34.9
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,7.0,10,34.9
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - QUIZ DAYS,float64,8.0,10,37.3
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - MEDITATION/YOGA/MUSIC,float64,9.0,9,36.1
+Hass Petroleum,2025,Ranking Wellness Activity proposed in order of preference/participation 2025(1 least 10 highest) - Other (please specify),object,GAME DRIVE,4,95.2
+Hass Petroleum,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,68.7
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - ZUMBA,object,ZUMBA,1,90.4
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - SWIMMING,object,SWIMMING,1,84.3
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - HIKING,object,HIKING,1,75.9
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - CYCLING,object,CYCLING,1,86.7
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - RUNNING,object,RUNNING,1,90.4
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - FOOTBALL,object,FOOTBALL,1,69.9
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - MEN'S CAVE,object,MEN'S CAVE,1,94.0
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - LADIES CLUB,object,LADIES CLUB,1,88.0
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - BOOK CLUB,object,BOOK CLUB,1,79.5
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,77.1
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,81.9
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - QUIZ DAYS,object,QUIZ DAYS,1,92.8
+Hass Petroleum,2025,Wellness Activity Would Like To Join As Champion or Committee Member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,86.7
+Hass Petroleum,2025,"Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (where applicable, tick more than one option).",object,Personal issues,1,79.5
+Hass Petroleum,2025,Mental Wellness Issues to Address - Work/job-related stressors,object,Work/job-related stressors,1,51.8
+Hass Petroleum,2025,Mental Wellness Issues to Address - Building Healthy families,object,Building Healthy families,1,81.9
+Hass Petroleum,2025,Mental Wellness Issues to Address - Emotional Wellbeing,object,Emotional Wellbeing,1,67.5
+Hass Petroleum,2025,Mental Wellness Issues to Address - Financial Wellbeing,object,Financial Wellbeing,1,48.2
+Hass Petroleum,2025,"Mental Wellness Issues to Address - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,88.0
+Hass Petroleum,2025,Mental Wellness Issues to Address - Substance and Drug Dependence,object,Substance and Drug Dependence,1,90.4
+Hass Petroleum,2025,Mental Wellness Issues to Address - Healthy Relationships,object,Healthy Relationships,1,72.3
+Hass Petroleum,2025,Mental Wellness Issues to Address - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,90.4
+Hass Petroleum,2025,Mental Wellness Issues to Address - Anxiety and Depression,object,Anxiety and Depression,1,78.3
+Hass Petroleum,2025,Mental Wellness Issues to Address - Work-life balance,object,Work-life balance,1,42.2
+Hass Petroleum,2025,Mental Wellness Issues to Address - Lifestyle diseases management,object,Lifestyle diseases management,1,79.5
+Hass Petroleum,2025,Mental Wellness Issues to Address - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,85.5
+Hass Petroleum,2025,Mental Wellness Issues to Address - Other (please specify),float64,ALL NULL,0,100.0
+Hass Petroleum,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,50.6
+Hass Petroleum,2025,Training Programs Interested Attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,69.9
+Hass Petroleum,2025,Training Programs Interested Attending - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,95.2
+Hass Petroleum,2025,Training Programs Interested Attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,80.7
+Hass Petroleum,2025,Training Programs Interested Attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,71.1
+Hass Petroleum,2025,Training Programs Interested Attending - Other (please specify),object,Personal Finance,2,97.6
+Hass Petroleum,2025,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,90.4
+Hass Petroleum,2025,Health & Wellbeing Clubs Interested Joining - Soul food (Overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (Overcomers of a challenging or difficul,1,80.7
+Hass Petroleum,2025,"Health & Wellbeing Clubs Interested Joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,65.1
+Hass Petroleum,2025,"Health & Wellbeing Clubs Interested Joining - Health club (Those interested in healthy living aspects; healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,47.0
+Hass Petroleum,2025,Health & Wellbeing Clubs Interested Joining - Other (please specify),float64,ALL NULL,0,100.0
+Smart Application,2025,Respondent ID,float64,118812247817.0,127,0.0
+Smart Application,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Smart Application,2025,Please select your gender,object,Male,2,0.0
+Smart Application,2025,Kindly select your age group,object,26-30 years,6,0.0
+Smart Application,2025,Please select your respective functional unit from the dropdown below.,object,Technology,10,0.0
+Smart Application,2025,"Rank the below wellness activities in order of your preference and participation in the year 2024 (1 being the lowest, while 10 being the highest score)",float64,10.0,10,24.4
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - ZUMBA,float64,10.0,9,28.3
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - SWIMMING,float64,10.0,10,26.8
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - HIKING,float64,10.0,10,29.1
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - CYCLING,float64,2.0,10,28.3
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - RUNNING,float64,9.0,10,26.8
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - FOOTBALL,float64,1.0,10,27.6
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - MEN’ S CAVE,float64,1.0,10,29.9
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - LADIES CLUB,float64,10.0,9,44.9
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - BOOK CLUB,float64,1.0,9,31.5
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,10.0,10,26.8
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,10.0,10,28.3
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - MEDITATION/YOGA/MUSIC,float64,10.0,10,26.8
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - QUIZ DAYS (TRIVIA DAYS),float64,10.0,10,33.1
+Smart Application,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - Other (please specify),object,BASKETBALL,8,92.9
+Smart Application,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,66.9
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - ZUMBA,object,ZUMBA,1,85.8
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - SWIMMING,object,SWIMMING,1,74.8
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - HIKING,object,HIKING,1,72.4
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - CYCLING,object,CYCLING,1,79.5
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - RUNNING,object,RUNNING,1,87.4
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - FOOTBALL,object,FOOTBALL,1,79.5
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - MEN'S CAVE,object,MEN'S CAVE,1,88.2
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - LADIES CLUB,object,LADIES CLUB,1,93.7
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - BOOK CLUB,object,BOOK CLUB,1,85.8
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,73.2
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,87.4
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,82.7
+Smart Application,2025,Wellness Activity Would Like To Join AS Champion or Committee Member - QUIZ DAYS,object,QUIZ DAYS,1,79.5
+Smart Application,2025,Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,81.9
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Work/job-related stressors,object,Work/job-related stressors,1,45.7
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Building Healthy families,object,Building Healthy families,1,71.7
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,61.4
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Financial Wellbeing,object,Financial Wellbeing,1,36.2
+Smart Application,2025,"Mental Wellness Issues Would Like Addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,80.3
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,93.7
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Healthy Relationships,object,Healthy Relationships,1,65.4
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,86.6
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Anxiety and Depression,object,Anxiety and Depression,1,71.7
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Work-life balance,object,Work-life balance,1,33.1
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,78.7
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,78.0
+Smart Application,2025,Mental Wellness Issues Would Like Addressed - Other (please specify),float64,ALL NULL,0,100.0
+Smart Application,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,52.8
+Smart Application,2025,Training Programs Interested Attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,63.8
+Smart Application,2025,Training Programs Interested Attending - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,92.1
+Smart Application,2025,Training Programs Interested Attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,85.0
+Smart Application,2025,Training Programs Interested Attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,65.4
+Smart Application,2025,Training Programs Interested Attending - Other (please specify),object,Financial programs,2,98.4
+Smart Application,2025,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,90.6
+Smart Application,2025,Health & Wellbeing Clubs Interested Joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,76.4
+Smart Application,2025,"Health & Wellbeing Clubs Interested Joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,61.4
+Smart Application,2025,"Health & Wellbeing Clubs Interested Joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,44.1
+Smart Application,2025,Health & Wellbeing Clubs Interested Joining - Other (please specify),object,na,2,98.4
+Nature Conservancy,2025,Respondent ID,object,118867125146,50,0.0
+Nature Conservancy,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you.",object,I Agree (Continue with Survey),1,0.0
+Nature Conservancy,2025,Please select your gender,object,Male,2,0.0
+Nature Conservancy,2025,Kindly select your age group,object,36-40 years,6,0.0
+Nature Conservancy,2025,Please select your respective City/Town of operation,object,Nairobi,4,0.0
+Nature Conservancy,2025,Rank the below wellness activities in order of your preference and participation in the year 2025 (with 1 being the lowest score and 10 the highest).,float64,10.0,7,16.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - ZUMBA,float64,5.0,9,28.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - SWIMMING,float64,8.0,10,22.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - HIKING,float64,10.0,9,28.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - CYCLING,float64,8.0,10,24.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - RUNNING,float64,8.0,10,28.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - FOOTBALL,float64,8.0,7,32.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - MEN’ S CAVE,float64,10.0,8,36.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - LADIES CLUB,float64,1.0,7,42.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - BOOK CLUB,float64,7.0,10,30.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,8.0,8,28.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,8.0,10,26.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - MEDITATION/YOGA/MUSIC,float64,1.0,10,26.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - QUIZ DAYS,float64,1.0,9,30.0
+Nature Conservancy,2025,Ranking Wellness Activity proposed in order of preference/participation (1 least 10 highest) - Other (please specify),object,Dance,5,88.0
+Nature Conservancy,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,60.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - ZUMBA,object,ZUMBA,1,90.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - SWIMMING,object,SWIMMING,1,76.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - HIKING,object,HIKING,1,88.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - CYCLING,object,CYCLING,1,88.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - RUNNING,object,RUNNING,1,84.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - FOOTBALL,object,FOOTBALL,1,88.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - MEN'S CAVE,object,MEN'S CAVE,1,98.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - LADIES CLUB,object,LADIES CLUB,1,92.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - BOOK CLUB,object,BOOK CLUB,1,88.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,84.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,96.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,92.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - QUIZ DAYS,object,QUIZ DAYS,1,98.0
+Nature Conservancy,2025,Would Like To Join as Champion or Committee Member - Other (please specify),object,N/a,3,94.0
+Nature Conservancy,2025,"Please reflect on the Mental wellness-related issues listed below and tick the areas you would like us to address in our regular wellness sessions (where applicable, tick more than one option).",object,Personal issues,1,84.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Work/job-related stressors,object,Work/job-related stressors,1,52.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Building Healthy families,object,Building Healthy families,1,62.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,40.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Financial Wellbeing,object,Financial Wellbeing,1,48.0
+Nature Conservancy,2025,"Mental Wellness Issues Would Like Addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,88.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,96.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Healthy Relationships,object,Healthy Relationships,1,68.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,86.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Anxiety and Depression,object,Anxiety and Depression,1,64.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Work-life balance,object,Work-life balance,1,40.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,62.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,68.0
+Nature Conservancy,2025,Mental Wellness Issues Would Like Addressed - Other (please specify),object,None ,1,98.0
+Nature Conservancy,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,52.0
+Nature Conservancy,2025,Training Programs Would Like To Attend - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,68.0
+Nature Conservancy,2025,Training Programs Would Like To Attend - Baby minder trainings (training for your nannies),object,Baby minder trainings (training for your nannies),1,94.0
+Nature Conservancy,2025,Training Programs Would Like To Attend - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,72.0
+Nature Conservancy,2025,Training Programs Would Like To Attend - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,66.0
+Nature Conservancy,2025,Training Programs Would Like To Attend - Other (please specify),object,?,1,98.0
+Nature Conservancy,2025,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,88.0
+Nature Conservancy,2025,Health & Wellbeing Clubs Interested Joining - Soul food (Overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (Overcomers of a challenging or difficul,1,76.0
+Nature Conservancy,2025,"Health & Wellbeing Clubs Interested Joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,56.0
+Nature Conservancy,2025,"Health & Wellbeing Clubs Interested Joining - Health club (Those interested in healthy living aspects; healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,30.0
+Nature Conservancy,2025,Health & Wellbeing Clubs Interested Joining - Other (please specify),float64,ALL NULL,0,100.0
+Nature Conservancy,2025,Do you have a preferred gym?,object,Yes,2,16.0
+Nature Conservancy,2025,"Please state the name, location and phone number of your preferred gym.",object,The Mark Hotel,29,32.0
+Nature Conservancy,2025,Location,object,Bypass Kamakis,32,32.0
+UNFCU,2025,Respondent ID,object,114816543549,29,0.0
+UNFCU,2025,"By completing this survey, you are consenting to us storing and using your data to help us improve our services to you",object,I Agree,1,0.0
+UNFCU,2025,Are you aware of the Employee Assistance Program EAP available to you through Minet?,object,Not Specified,3,0.0
+UNFCU,2025,"If you are aware of the EAP, how comfortable do you feel using it to access support for personal or work-related issues?",object,Neutral,4,6.9
+UNFCU,2025,Have you ever used the Employee Assistance Program (EAP)?,object,Not Specified,3,0.0
+UNFCU,2025,"If yes, how satisfied were you with the services you received from the EAP?",object,Neither satisfied nor dissatisfied,3,6.9
+UNFCU,2025,"If you have not used the EAP, what are the main reasons? (Select all that apply)",object,Not aware of how to access it,1,65.5
+UNFCU,2025,EAP Non-Use Reason - Don’t think I need the services,object,Don’t think I need the services,1,93.1
+UNFCU,2025,EAP Non-Use Reason - Privacy concerns,object,Privacy concerns,1,82.8
+UNFCU,2025,EAP Non-Use Reason - Don’t feel comfortable using it,object,Don’t feel comfortable using it,1,93.1
+UNFCU,2025,EAP Non-Use Reason - Lack of time to use the services,object,Lack of time to use the services,1,89.7
+UNFCU,2025,EAP Non-Use Reason - I prefer to handle issues on my own,object,I prefer to handle issues on my own,1,89.7
+UNFCU,2025,EAP Non-Use Reason - Other (please specify),object,Fairely new staff,9,69.0
+UNFCU,2025,"What, if anything, would encourage you to use the EAP in the future?",object,More awareness/education about the program,5,6.9
+UNFCU,2025,What would Encourage you to use EAP in future - Other (please specify),object,Maybe educational programs like financial literacy,4,86.2
+UNFCU,2025,Would you like us to link you or your dependents to our professional counselors for support?,object,No,2,20.7
+UNFCU,2025,"If yes, please provide your contact information",float64,ALL NULL,0,100.0
+UNFCU,2025,Do yo have any suggestions for improving the Employee Assistance Program?,object,None ,12,55.2
+UNFCU,2025,Any additional comments or thoughts regarding the EAP?,object,none,7,72.4
+UNFCU,2025,How would you rate the state of your mental well-being?,object,Not Specified,6,0.0
+UNFCU,2025,What challenges are you currently facing?,object,Parenting,7,6.9
+UNFCU,2025,Current Challenges - Other (please specify),object,I am a very happy girl. :) ,4,86.2
+UNFCU,2025,Please reflect on the mental Wellness related issues listed below and tick the areas you would like us to address on our regular sessions? (Select more than one if applicable),object,Work/job related stressors,1,27.6
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Emotional intelligence,object,Emotional intelligence,1,44.8
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Financial constraints,object,Financial constraints,1,51.7
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Trauma,object,Trauma,1,75.9
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,93.1
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Relationship Difficulties,object,Relationship Difficulties,1,69.0
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,82.8
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Anxiety and Depression,object,Anxiety and Depression,1,62.1
+UNFCU,2025,Mental Wellness Issues Would Like Adressed - Other (please specify),object,How to motivate staff and how staff can motivate t,1,96.6
+UNFCU,2025,How many hours do you sleep per day?,object,7 - 9,2,6.9
+UNFCU,2025,How often do you smoke?,object,Never,2,6.9
+UNFCU,2025,How often do you drink alcohol?,object,Never,2,6.9
+UNFCU,2025,How would you rate your overall nutrition and eating habits?,object,Neutral,4,6.9
+UNFCU,2025,Do you regularly schedule and attend annual wellness checkups with a healthcare provider?,object,"Yes, I attend checkups every year",4,6.9
+UNFCU,2025,How would you describe your exercise routine or physical activity level?,object,Occasionally Active (I exercise occasionally or do,4,6.9
+UNFCU,2025,Which of the following physical activities do you regularly engage in? (Select all that apply),object,Walking,1,20.7
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Running or Jogging,object,Running or Jogging,1,62.1
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Cycling,object,Cycling,1,82.8
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Swimming,object,Swimming,1,93.1
+UNFCU,2025,"Which Physical Activities Do You Regularly Engage In - Strength training (e.g., weightlifting, resistance exercises)",object,"Strength training (e.g., weightlifting, resistance",1,65.5
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Yoga or Pilates,object,Yoga or Pilates,1,89.7
+UNFCU,2025,"Which Physical Activities Do You Regularly Engage In - Team sports (e.g., soccer, basketball, volleyball)",object,"Team sports (e.g., soccer, basketball, volleyball)",1,86.2
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Hiking,object,Hiking,1,86.2
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Dancing,object,Dancing,1,89.7
+UNFCU,2025,Which Physical Activities Do You Regularly Engage In - Other (please specify),object,Swimming,1,96.6
+WOW Beverages,2025,Respondent_ID,object,118867557069,15,0.0
+WOW Beverages,2025,Consent,object,I Agree (Continue with Survey),1,0.0
+WOW Beverages,2025,Gender,object,Female,2,0.0
+WOW Beverages,2025,Age_Group,object,50+ years,5,0.0
+WOW Beverages,2025,Functional_Unit,object,Supply Chain and Logistics.,5,0.0
+WOW Beverages,2025,"Rank the below wellness activities in order of your preference and participation in the year 2025 (1 being the lowest, while 10 being the highest score)",float64,10.0,6,40.0
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - ZUMBA,float64,9.0,6,40.0
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - SWIMMING,float64,10.0,4,53.3
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - HIKING,float64,10.0,6,33.3
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - CYCLING,float64,10.0,4,46.7
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - RUNNING,float64,4.0,8,40.0
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - FOOTBALL,float64,1.0,6,46.7
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - MEN’ S CAVE,float64,1.0,4,53.3
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - LADIES CLUB,float64,1.0,5,46.7
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - BOOK CLUB,float64,5.0,6,33.3
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - DIET/NUTRITION PROGRAMS,float64,9.0,6,26.7
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - STAIRCASE/STEP CHALLENGE,float64,1.0,8,40.0
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - MEDITATION/YOGA/MUSIC,float64,10.0,6,33.3
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - QUIZ DAYS,float64,1.0,6,33.3
+WOW Beverages,2025,Rank of Wellness Activities In Order Of Preference/Participation(1 least 10 highest) - Other (please specify),object,none,2,86.7
+WOW Beverages,2025,Which of the above would you like to join as a champion or a committee member?,object,GYM/AEROBICS,1,66.7
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - ZUMBA,object,ZUMBA,1,73.3
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - SWIMMING,object,SWIMMING,1,93.3
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - HIKING,object,HIKING,1,66.7
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - CYCLING,object,CYCLING,1,66.7
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - RUNNING,object,RUNNING,1,86.7
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - FOOTBALL,object,FOOTBALL,1,80.0
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - MEN'S CAVE,object,MEN'S CAVE,1,93.3
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - LADIES CLUB,object,LADIES CLUB,1,86.7
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - BOOK CLUB,object,BOOK CLUB,1,73.3
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - DIET/NUTRITION PROGRAMS,object,DIET/NUTRITION PROGRAMS,1,73.3
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - STAIRCASE/STEP CHALLENGE,object,STAIRCASE/STEP CHALLENGE,1,86.7
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - MEDITATION/YOGA/MUSIC,object,MEDITATION/YOGA/MUSIC,1,80.0
+WOW Beverages,2025,Wellness Activity Would Like To Join as Champion Or Committee Member - QUIZ DAYS,float64,ALL NULL,0,100.0
+WOW Beverages,2025,Please reflect on the Mental wellness-related issues listed below and tick the areas you would  like us to address in our regular wellness sessions (tick more than one option).,object,Personal issues,1,40.0
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Work/job-related stressors,object,Work/job-related stressors,1,73.3
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Building Healthy families,object,Building Healthy families,1,53.3
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Emotional Wellbeing,object,Emotional Wellbeing,1,40.0
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Financial Wellbeing,object,Financial Wellbeing,1,60.0
+WOW Beverages,2025,"Mental Wellness Issues Would Like Addressed - Overcoming Trauma (Coping mechanisms after a traumatic experience- Physical, emotional, Psychological etc.)",object,Overcoming Trauma (Coping mechanisms after a traum,1,73.3
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Substance and Drug Dependence,object,Substance and Drug Dependence,1,93.3
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Healthy Relationships,object,Healthy Relationships,1,40.0
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Unresolved Childhood Difficulties,object,Unresolved Childhood Difficulties,1,66.7
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Anxiety and Depression,object,Anxiety and Depression,1,66.7
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Work-life balance,object,Work-life balance,1,53.3
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Lifestyle diseases management,object,Lifestyle diseases management,1,60.0
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Effective Parenting skills (Managing children and teenagers),object,Effective Parenting skills (Managing children and ,1,86.7
+WOW Beverages,2025,Mental Wellness Issues Would Like Addressed - Other (please specify),object,none,1,93.3
+WOW Beverages,2025,Which of the following training programs would you like to attend?,object,Wellness coordinators/ Ambassador for Change,1,46.7
+WOW Beverages,2025,Training Programs Interested Attending - Mental Health Peer counsellor,object,Mental Health Peer counsellor,1,66.7
+WOW Beverages,2025,Training Programs Interested Attending - Baby minder trainings (training for your nannies),float64,ALL NULL,0,100.0
+WOW Beverages,2025,Training Programs Interested Attending - Youth/Peer mentorship program (Training for your adolescent son/daughter),object,Youth/Peer mentorship program (Training for your a,1,80.0
+WOW Beverages,2025,Training Programs Interested Attending - Family Health program- relationships/ Marriage issues/ Parenting (Training for couples),object,Family Health program- relationships/ Marriage iss,1,46.7
+WOW Beverages,2025,Training Programs Interested Attending - Other (please specify),object,none,1,93.3
+WOW Beverages,2025,Which of the health and wellbeing clubs below would you be interested to join?,object,Thrive club (Those living positively with a life’s,1,86.7
+WOW Beverages,2025,Health & Wellbeing Clubs Interested Joining - Soul food (overcomers of a challenging or difficult situation in life; from grass to grace),object,Soul food (overcomers of a challenging or difficul,1,73.3
+WOW Beverages,2025,"Health & Wellbeing Clubs Interested Joining - Nurture Club (Those supporting young people through mentorship, coaching, career progressions)",object,Nurture Club (Those supporting young people throug,1,60.0
+WOW Beverages,2025,"Health & Wellbeing Clubs Interested Joining - Health club (Those interested in healthy living aspects, healthy eating, exercising, health promotion etc.)",object,Health club (Those interested in healthy living as,1,20.0
+WOW Beverages,2025,Health & Wellbeing Clubs Interested Joining - Other (please specify),object,none,1,93.3
